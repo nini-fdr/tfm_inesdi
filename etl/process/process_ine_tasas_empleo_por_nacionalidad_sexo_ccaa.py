@@ -45,8 +45,7 @@ def extract_community_and_gender(series_name):
             return genero, comunidad_autonoma
         return None, None
     except Exception as e:
-        print(f"Error extracting info from '{series_name}': {e}")
-        return None, None
+                return None, None
 
 def process_data():
     """
@@ -60,49 +59,33 @@ def process_data():
     output_file = "ine_tasas_empleo_por_nacionalidad_sexo_ccaa_processed.csv"
     output_path = os.path.join(output_dir, output_file)
 
-    print("INE Employment Rates Data Processing Script")
-    print("=" * 50)
-    print(f"Input file: {input_file}")
-    print(f"Output file: {output_path}")
-    print("=" * 50)
-
     # 1. Read raw data
-    print("Reading raw data...")
-    try:
+        try:
         df_raw = pd.read_csv(input_file)
-        print(f"Loaded {len(df_raw)} records")
-    except FileNotFoundError:
-        print(f"❌ Error: Input file not found: {input_file}")
-        print("Please ensure the corresponding extraction script has been run first.")
-        return None
+            except FileNotFoundError:
+                        return None
 
     # 2. Extract quarter information
-    print("Extracting quarter information...")
-    df_raw[['quarter_codigo', 'quarter_nombre']] = df_raw['quarter'].apply(
+        df_raw[['quarter_codigo', 'quarter_nombre']] = df_raw['quarter'].apply(
         lambda x: pd.Series(extract_quarter_info(x))
     )
 
     # 3. Extract community and gender information
-    print("Extracting community and gender information...")
-    df_raw[['genero', 'comunidad_autonoma']] = df_raw['series_name'].apply(
+        df_raw[['genero', 'comunidad_autonoma']] = df_raw['series_name'].apply(
         lambda x: pd.Series(extract_community_and_gender(x))
     )
 
     # Filter out rows where extraction failed
     df_filtered = df_raw.dropna(subset=['genero', 'comunidad_autonoma', 'quarter_codigo']).copy()
-    print(f"Filtered out {len(df_raw) - len(df_filtered)} records with missing info")
-
+    
     # 4. Standardize community names using the mapping
-    print("Standardizing community names...")
-    df_filtered = apply_community_mapping(df_filtered, 'comunidad_autonoma')
-    print(f"After standardization: {len(df_filtered)} records")
-
+        df_filtered = apply_community_mapping(df_filtered, 'comunidad_autonoma')
+    
     # 5. Ensure 'year' is integer type
     df_filtered['year'] = pd.to_numeric(df_filtered['year'], errors='coerce').astype('Int64')
 
     # 6. Calculate annual averages by grouping by year, community, and gender
-    print("Calculating annual averages...")
-    df_annual = df_filtered.groupby(['year', 'comunidad_autonoma', 'genero'])['value'].mean().reset_index()
+        df_annual = df_filtered.groupby(['year', 'comunidad_autonoma', 'genero'])['value'].mean().reset_index()
     df_annual.rename(columns={'value': 'tasa_promedio_empleo'}, inplace=True)
     
     # Round to 2 decimal places
@@ -112,32 +95,17 @@ def process_data():
     df_annual = df_annual.sort_values(['year', 'comunidad_autonoma', 'genero'])
 
     # 7. Ensure output directory exists and save processed data
-    print("Saving processed data...")
-    os.makedirs(output_dir, exist_ok=True)
+        os.makedirs(output_dir, exist_ok=True)
     df_annual.to_csv(output_path, index=False, encoding='utf-8')
 
-    print("\n✅ Processing completed successfully!")
-    print(f"Processed records: {len(df_annual)}")
-    print(f"Years covered: {df_annual['year'].min()} to {df_annual['year'].max()}")
-    print(f"Communities: {df_annual['comunidad_autonoma'].nunique()}")
-    print(f"Genders: {df_annual['genero'].nunique()}")
-    print(f"Output saved to: {output_path}")
-
-    print("\nSample processed data:")
-    print(df_annual.head(10))
-
-    print("\nColumns in processed data:")
-    for col in df_annual.columns:
-        print(f"  - {col}")
-    
+        for col in df_annual.columns:
+            
     # Display summary by community for the latest year
-    print(f"\nSummary by community and gender ({df_annual['year'].max()} data):")
-    latest_year = df_annual['year'].max()
+        latest_year = df_annual['year'].max()
     summary = df_annual[df_annual['year'] == latest_year].sort_values(
         by='tasa_promedio_empleo', ascending=False
     )
-    print(summary.head(10))
-
+    
     return df_annual
 
 def main():
@@ -146,10 +114,8 @@ def main():
     """
     df = process_data()
     if df is not None:
-        print("\n🎉 Data processing completed successfully!")
-    else:
-        print("\n💥 Data processing failed!")
-        sys.exit(1)
+            else:
+                sys.exit(1)
 
 if __name__ == "__main__":
     main()

@@ -21,8 +21,6 @@ def download_ine_data():
     table_id = "65310"
     api_url = f"https://servicios.ine.es/wstempus/js/ES/DATOS_TABLA/{table_id}?tip=A&det=2"
     
-    print(f"Downloading data from: {api_url}")
-    
     try:
         # Make the API request
         response = requests.get(api_url, timeout=30)
@@ -30,8 +28,6 @@ def download_ine_data():
         
         # Parse the JSON response
         data = response.json()
-        
-        print(f"Successfully retrieved data. Found {len(data)} series.")
         
         # Process the data - only include Hombres and Mujeres, exclude Total Nacional, exclude Española and Extranjera
         all_data = []
@@ -47,7 +43,6 @@ def download_ine_data():
                'Total Nacional' not in series_name and \
                'Española' not in series_name and \
                'Extranjera:' not in series_name:
-                print(f"Processing series: {series_name} (ID: {series_id})")
                 
                 # Process each data point in the series
                 for data_point in series_data:
@@ -68,14 +63,12 @@ def download_ine_data():
                                 'value': value
                             })
             else:
-                print(f"Skipping series: {series_name} (not Hombres/Mujeres or Total Nacional or contains Española/Extranjera)")
-        
+                        
         # Create DataFrame
         df = pd.DataFrame(all_data)
         
         if df.empty:
-            print("Warning: No data found in the response.")
-            return None
+                        return None
         
         # Define output directory and filename
         output_dir = "../../extraction_folder"
@@ -87,45 +80,29 @@ def download_ine_data():
         
         # Save to CSV
         df.to_csv(filepath, index=False, encoding='utf-8')
-        
-        print(f"Data saved to: {filepath}")
-        print(f"Total records: {len(df)}")
-        print(f"Series count: {df['series_id'].nunique()}")
-        print(f"Years: {df['year'].min()} to {df['year'].max()}")
-        
+
         # Display sample data
-        print("\nSample data:")
-        print(df.head(10))
-        
+                        
         return df
         
     except requests.exceptions.RequestException as e:
-        print(f"Error making API request: {e}")
-        return None
+                return None
     except json.JSONDecodeError as e:
-        print(f"Error parsing JSON response: {e}")
-        return None
+                return None
     except Exception as e:
-        print(f"Unexpected error: {e}")
-        return None
+                return None
 
 def main():
     """
     Main function to run the data download
     """
-    print("INE Data Download Script")
-    print("=" * 50)
-    print("Table: Tasas de empleo por nacionalidad, sexo y comunidad autónoma")
-    print("=" * 50)
-    
+                    
     # Download the data
     df = download_ine_data()
     
     if df is not None:
-        print("\n✅ Data download completed successfully!")
-    else:
-        print("\n❌ Data download failed!")
-        sys.exit(1)
+            else:
+                sys.exit(1)
 
 if __name__ == "__main__":
     main()
