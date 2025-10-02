@@ -39,19 +39,7 @@ def extract_community_crime_type(series_name):
             # Format: "01 Andalucía, 8 Contra la libertad..."
             crime_type = ', '.join(parts[1:]).strip()
         
-        # Clean up community names
-        community_mapping = {
-            'Comunidad de Madrid': 'Comunidad de Madrid',
-            'Región de Murcia': 'Región de Murcia', 
-            'Principado de Asturias': 'Principado de Asturias',
-            'Illes Balears': 'Illes Balears',
-            'Comunidad Foral de Navarra': 'Comunidad Foral de Navarra',
-            'La Rioja': 'La Rioja'
-        }
-        
-        # Apply mapping if needed
-        if community in community_mapping:
-            community = community_mapping[community]
+        # Community mapping will be handled by apply_community_mapping from utils.py
         
         return community, crime_type
     return None, None
