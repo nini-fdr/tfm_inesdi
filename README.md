@@ -19,6 +19,8 @@ TFM/
 
 ## ETLs Implementados
 
+**Total:** 6 ETLs completos con extracción y procesamiento de datos del INE
+
 ### 1. **Parejas por Nacionalidad y Tipo de Unión**
 
 **Archivo de extracción:** `etl/extraction/extraction_ine_parejas_por_nacionalidad_y_tipo_union.py`
@@ -143,6 +145,29 @@ TFM/
 - **Registros:** 1,330 registros (19 comunidades × 7 tipos de delito × 10 años)
 
 **Uso:** Análisis de delitos relacionados con violencia familiar y sexual por región, tendencias temporales de criminalidad familiar.
+
+---
+
+### 6. **Tasa de Riesgo de Pobreza o Exclusión Social (AROPE)**
+
+**Archivo de extracción:** `etl/extraction/extraction_ine_riesgo_pobreza_exclusion_social.py`
+**Archivo de procesamiento:** `etl/process/process_ine_riesgo_pobreza_exclusion_social.py`
+
+**Fuente:** Tabla Tempus3 del INE - Tasa de riesgo de pobreza o exclusión social (indicador AROPE) por CCAA
+
+**Procesamiento:**
+- **Extracción:** 
+  - Descarga únicamente el indicador AROPE por comunidad autónoma (excluye "Total Nacional")
+  - Filtra específicamente "Tasa de riesgo de pobreza o exclusión social (indicador AROPE)"
+- **Transformación:** 
+  - Extrae `comunidad_autonoma` del campo `series_name`
+  - Aplica mapeo estandarizado de nombres de comunidades usando `utils.py`
+  - Estructura final con clave `(year, comunidad_autonoma, tasa_arope)`
+- **Estructura final:** `(year, comunidad_autonoma, tasa_arope)`
+- **Período:** 2014-2024
+- **Registros:** 209 registros (19 comunidades × ~11 años)
+
+**Uso:** Análisis de desigualdad social y riesgo de pobreza por región, seguimiento del objetivo Europa 2030, comparación regional de exclusión social.
 
 ---
 
