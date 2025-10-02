@@ -1,0 +1,913 @@
+year,comunidad_autonoma,genero,tasa_promedio_empleo
+2002,Andalucía,Hombres,56.79
+2002,Andalucía,Mujeres,28.32
+2002,Aragón,Hombres,62.21
+2002,Aragón,Mujeres,34.84
+2002,Asturias,Hombres,52.44
+2002,Asturias,Mujeres,28.47
+2002,Canarias,Hombres,63.51
+2002,Canarias,Mujeres,38.63
+2002,Cantabria,Hombres,59.92
+2002,Cantabria,Mujeres,32.35
+2002,Castilla y León,Hombres,57.32
+2002,Castilla y León,Mujeres,30.7
+2002,Castilla-La Mancha,Hombres,61.25
+2002,Castilla-La Mancha,Mujeres,30.13
+2002,Cataluña,Hombres,65.22
+2002,Cataluña,Mujeres,41.48
+2002,Ceuta,Hombres,57.72
+2002,Ceuta,Mujeres,25.92
+2002,Comunidad de Madrid,Hombres,67.13
+2002,Comunidad de Madrid,Mujeres,42.89
+2002,Comunitat Valenciana,Hombres,63.06
+2002,Comunitat Valenciana,Mujeres,38.0
+2002,Extremadura,Hombres,54.89
+2002,Extremadura,Mujeres,25.99
+2002,Galicia,Hombres,55.74
+2002,Galicia,Mujeres,33.85
+2002,Illes Balears,Hombres,67.82
+2002,Illes Balears,Mujeres,45.31
+2002,La Rioja,Hombres,63.56
+2002,La Rioja,Mujeres,34.62
+2002,Melilla,Hombres,63.01
+2002,Melilla,Mujeres,29.64
+2002,Navarra,Hombres,65.76
+2002,Navarra,Mujeres,40.42
+2002,País Vasco,Hombres,61.96
+2002,País Vasco,Mujeres,38.19
+2002,Región de Murcia,Hombres,64.49
+2002,Región de Murcia,Mujeres,35.18
+2003,Andalucía,Hombres,57.43
+2003,Andalucía,Mujeres,29.88
+2003,Aragón,Hombres,62.5
+2003,Aragón,Mujeres,37.44
+2003,Asturias,Hombres,52.99
+2003,Asturias,Mujeres,30.21
+2003,Canarias,Hombres,63.78
+2003,Canarias,Mujeres,40.57
+2003,Cantabria,Hombres,61.04
+2003,Cantabria,Mujeres,34.24
+2003,Castilla y León,Hombres,57.58
+2003,Castilla y León,Mujeres,31.48
+2003,Castilla-La Mancha,Hombres,61.64
+2003,Castilla-La Mancha,Mujeres,31.34
+2003,Cataluña,Hombres,66.18
+2003,Cataluña,Mujeres,43.51
+2003,Ceuta,Hombres,63.12
+2003,Ceuta,Mujeres,25.48
+2003,Comunidad de Madrid,Hombres,67.39
+2003,Comunidad de Madrid,Mujeres,43.82
+2003,Comunitat Valenciana,Hombres,63.58
+2003,Comunitat Valenciana,Mujeres,38.74
+2003,Extremadura,Hombres,55.22
+2003,Extremadura,Mujeres,28.18
+2003,Galicia,Hombres,56.86
+2003,Galicia,Mujeres,35.27
+2003,Illes Balears,Hombres,66.99
+2003,Illes Balears,Mujeres,46.5
+2003,La Rioja,Hombres,64.1
+2003,La Rioja,Mujeres,36.64
+2003,Melilla,Hombres,59.83
+2003,Melilla,Mujeres,31.83
+2003,Navarra,Hombres,64.65
+2003,Navarra,Mujeres,42.31
+2003,País Vasco,Hombres,62.31
+2003,País Vasco,Mujeres,39.9
+2003,Región de Murcia,Hombres,65.69
+2003,Región de Murcia,Mujeres,36.85
+2004,Andalucía,Hombres,58.69
+2004,Andalucía,Mujeres,31.41
+2004,Aragón,Hombres,63.75
+2004,Aragón,Mujeres,39.75
+2004,Asturias,Hombres,53.3
+2004,Asturias,Mujeres,31.05
+2004,Canarias,Hombres,62.84
+2004,Canarias,Mujeres,41.27
+2004,Cantabria,Hombres,60.9
+2004,Cantabria,Mujeres,35.49
+2004,Castilla y León,Hombres,58.1
+2004,Castilla y León,Mujeres,32.58
+2004,Castilla-La Mancha,Hombres,62.98
+2004,Castilla-La Mancha,Mujeres,31.97
+2004,Cataluña,Hombres,66.06
+2004,Cataluña,Mujeres,45.31
+2004,Ceuta,Hombres,60.41
+2004,Ceuta,Mujeres,25.53
+2004,Comunidad de Madrid,Hombres,67.86
+2004,Comunidad de Madrid,Mujeres,46.6
+2004,Comunitat Valenciana,Hombres,63.72
+2004,Comunitat Valenciana,Mujeres,41.02
+2004,Extremadura,Hombres,56.55
+2004,Extremadura,Mujeres,27.82
+2004,Galicia,Hombres,56.74
+2004,Galicia,Mujeres,36.22
+2004,Illes Balears,Hombres,67.41
+2004,Illes Balears,Mujeres,47.64
+2004,La Rioja,Hombres,64.48
+2004,La Rioja,Mujeres,39.3
+2004,Melilla,Hombres,59.44
+2004,Melilla,Mujeres,34.15
+2004,Navarra,Hombres,65.9
+2004,Navarra,Mujeres,42.93
+2004,País Vasco,Hombres,62.34
+2004,País Vasco,Mujeres,40.8
+2004,Región de Murcia,Hombres,66.7
+2004,Región de Murcia,Mujeres,38.17
+2005,Andalucía,Hombres,60.63
+2005,Andalucía,Mujeres,34.06
+2005,Aragón,Hombres,65.64
+2005,Aragón,Mujeres,42.28
+2005,Asturias,Hombres,54.62
+2005,Asturias,Mujeres,33.32
+2005,Canarias,Hombres,63.08
+2005,Canarias,Mujeres,42.15
+2005,Cantabria,Hombres,62.4
+2005,Cantabria,Mujeres,38.78
+2005,Castilla y León,Hombres,60.46
+2005,Castilla y León,Mujeres,35.94
+2005,Castilla-La Mancha,Hombres,64.42
+2005,Castilla-La Mancha,Mujeres,34.55
+2005,Cataluña,Hombres,68.15
+2005,Cataluña,Mujeres,47.74
+2005,Ceuta,Hombres,63.62
+2005,Ceuta,Mujeres,31.43
+2005,Comunidad de Madrid,Hombres,68.65
+2005,Comunidad de Madrid,Mujeres,50.1
+2005,Comunitat Valenciana,Hombres,65.19
+2005,Comunitat Valenciana,Mujeres,41.97
+2005,Extremadura,Hombres,56.39
+2005,Extremadura,Mujeres,30.96
+2005,Galicia,Hombres,57.98
+2005,Galicia,Mujeres,38.47
+2005,Illes Balears,Hombres,68.81
+2005,Illes Balears,Mujeres,48.45
+2005,La Rioja,Hombres,68.42
+2005,La Rioja,Mujeres,43.84
+2005,Melilla,Hombres,60.39
+2005,Melilla,Mujeres,30.52
+2005,Navarra,Hombres,66.84
+2005,Navarra,Mujeres,46.6
+2005,País Vasco,Hombres,63.81
+2005,País Vasco,Mujeres,42.93
+2005,Región de Murcia,Hombres,67.02
+2005,Región de Murcia,Mujeres,39.88
+2006,Andalucía,Hombres,61.58
+2006,Andalucía,Mujeres,35.84
+2006,Aragón,Hombres,64.82
+2006,Aragón,Mujeres,43.38
+2006,Asturias,Hombres,55.84
+2006,Asturias,Mujeres,35.97
+2006,Canarias,Hombres,64.53
+2006,Canarias,Mujeres,43.57
+2006,Cantabria,Hombres,63.02
+2006,Cantabria,Mujeres,41.5
+2006,Castilla y León,Hombres,60.46
+2006,Castilla y León,Mujeres,37.62
+2006,Castilla-La Mancha,Hombres,65.4
+2006,Castilla-La Mancha,Mujeres,35.63
+2006,Cataluña,Hombres,68.89
+2006,Cataluña,Mujeres,49.01
+2006,Ceuta,Hombres,54.72
+2006,Ceuta,Mujeres,29.33
+2006,Comunidad de Madrid,Hombres,70.13
+2006,Comunidad de Madrid,Mujeres,51.11
+2006,Comunitat Valenciana,Hombres,65.85
+2006,Comunitat Valenciana,Mujeres,43.54
+2006,Extremadura,Hombres,57.34
+2006,Extremadura,Mujeres,32.46
+2006,Galicia,Hombres,58.11
+2006,Galicia,Mujeres,40.56
+2006,Illes Balears,Hombres,70.09
+2006,Illes Balears,Mujeres,50.57
+2006,La Rioja,Hombres,66.5
+2006,La Rioja,Mujeres,45.4
+2006,Melilla,Hombres,63.56
+2006,Melilla,Mujeres,30.85
+2006,Navarra,Hombres,67.72
+2006,Navarra,Mujeres,47.8
+2006,País Vasco,Hombres,64.16
+2006,País Vasco,Mujeres,44.84
+2006,Región de Murcia,Hombres,67.09
+2006,Región de Murcia,Mujeres,42.01
+2007,Andalucía,Hombres,61.5
+2007,Andalucía,Mujeres,37.31
+2007,Aragón,Hombres,65.83
+2007,Aragón,Mujeres,46.8
+2007,Asturias,Hombres,55.56
+2007,Asturias,Mujeres,37.86
+2007,Canarias,Hombres,64.21
+2007,Canarias,Mujeres,45.01
+2007,Cantabria,Hombres,63.67
+2007,Cantabria,Mujeres,43.4
+2007,Castilla y León,Hombres,60.88
+2007,Castilla y León,Mujeres,39.18
+2007,Castilla-La Mancha,Hombres,65.56
+2007,Castilla-La Mancha,Mujeres,38.89
+2007,Cataluña,Hombres,68.68
+2007,Cataluña,Mujeres,49.92
+2007,Ceuta,Hombres,57.24
+2007,Ceuta,Mujeres,27.17
+2007,Comunidad de Madrid,Hombres,70.38
+2007,Comunidad de Madrid,Mujeres,52.16
+2007,Comunitat Valenciana,Hombres,65.35
+2007,Comunitat Valenciana,Mujeres,44.38
+2007,Extremadura,Hombres,58.1
+2007,Extremadura,Mujeres,34.26
+2007,Galicia,Hombres,59.18
+2007,Galicia,Mujeres,41.41
+2007,Illes Balears,Hombres,69.47
+2007,Illes Balears,Mujeres,50.11
+2007,La Rioja,Hombres,67.47
+2007,La Rioja,Mujeres,44.26
+2007,Melilla,Hombres,60.8
+2007,Melilla,Mujeres,30.72
+2007,Navarra,Hombres,69.0
+2007,Navarra,Mujeres,47.81
+2007,País Vasco,Hombres,63.9
+2007,País Vasco,Mujeres,45.34
+2007,Región de Murcia,Hombres,68.36
+2007,Región de Murcia,Mujeres,43.44
+2008,Andalucía,Hombres,57.91
+2008,Andalucía,Mujeres,37.13
+2008,Aragón,Hombres,64.31
+2008,Aragón,Mujeres,46.86
+2008,Asturias,Hombres,56.7
+2008,Asturias,Mujeres,40.44
+2008,Canarias,Hombres,58.83
+2008,Canarias,Mujeres,41.88
+2008,Cantabria,Hombres,62.77
+2008,Cantabria,Mujeres,44.02
+2008,Castilla y León,Hombres,59.64
+2008,Castilla y León,Mujeres,39.25
+2008,Castilla-La Mancha,Hombres,62.43
+2008,Castilla-La Mancha,Mujeres,39.21
+2008,Cataluña,Hombres,66.29
+2008,Cataluña,Mujeres,50.51
+2008,Ceuta,Hombres,61.6
+2008,Ceuta,Mujeres,31.15
+2008,Comunidad de Madrid,Hombres,68.19
+2008,Comunidad de Madrid,Mujeres,52.22
+2008,Comunitat Valenciana,Hombres,62.69
+2008,Comunitat Valenciana,Mujeres,44.56
+2008,Extremadura,Hombres,57.4
+2008,Extremadura,Mujeres,33.28
+2008,Galicia,Hombres,58.54
+2008,Galicia,Mujeres,42.22
+2008,Illes Balears,Hombres,66.32
+2008,Illes Balears,Mujeres,50.44
+2008,La Rioja,Hombres,65.56
+2008,La Rioja,Mujeres,45.61
+2008,Melilla,Hombres,61.27
+2008,Melilla,Mujeres,27.19
+2008,Navarra,Hombres,66.34
+2008,Navarra,Mujeres,48.37
+2008,País Vasco,Hombres,63.53
+2008,País Vasco,Mujeres,46.16
+2008,Región de Murcia,Hombres,63.47
+2008,Región de Murcia,Mujeres,44.39
+2009,Andalucía,Hombres,51.54
+2009,Andalucía,Mujeres,35.74
+2009,Aragón,Hombres,58.62
+2009,Aragón,Mujeres,44.88
+2009,Asturias,Hombres,51.74
+2009,Asturias,Mujeres,38.84
+2009,Canarias,Hombres,52.06
+2009,Canarias,Mujeres,39.56
+2009,Cantabria,Hombres,57.54
+2009,Cantabria,Mujeres,43.16
+2009,Castilla y León,Hombres,55.54
+2009,Castilla y León,Mujeres,38.41
+2009,Castilla-La Mancha,Hombres,56.87
+2009,Castilla-La Mancha,Mujeres,37.25
+2009,Cataluña,Hombres,59.14
+2009,Cataluña,Mujeres,47.48
+2009,Ceuta,Hombres,59.6
+2009,Ceuta,Mujeres,33.22
+2009,Comunidad de Madrid,Hombres,63.26
+2009,Comunidad de Madrid,Mujeres,50.59
+2009,Comunitat Valenciana,Hombres,54.72
+2009,Comunitat Valenciana,Mujeres,41.84
+2009,Extremadura,Hombres,52.46
+2009,Extremadura,Mujeres,32.99
+2009,Galicia,Hombres,54.74
+2009,Galicia,Mujeres,41.81
+2009,Illes Balears,Hombres,59.26
+2009,Illes Balears,Mujeres,48.86
+2009,La Rioja,Hombres,60.73
+2009,La Rioja,Mujeres,44.9
+2009,Melilla,Hombres,54.7
+2009,Melilla,Mujeres,28.84
+2009,Navarra,Hombres,62.36
+2009,Navarra,Mujeres,46.48
+2009,País Vasco,Hombres,58.42
+2009,País Vasco,Mujeres,44.67
+2009,Región de Murcia,Hombres,55.53
+2009,Región de Murcia,Mujeres,42.08
+2010,Andalucía,Hombres,49.38
+2010,Andalucía,Mujeres,35.53
+2010,Aragón,Hombres,57.1
+2010,Aragón,Mujeres,42.99
+2010,Asturias,Hombres,49.9
+2010,Asturias,Mujeres,37.84
+2010,Canarias,Hombres,49.19
+2010,Canarias,Mujeres,39.32
+2010,Cantabria,Hombres,55.98
+2010,Cantabria,Mujeres,41.29
+2010,Castilla y León,Hombres,54.25
+2010,Castilla y León,Mujeres,38.78
+2010,Castilla-La Mancha,Hombres,55.4
+2010,Castilla-La Mancha,Mujeres,36.28
+2010,Cataluña,Hombres,57.99
+2010,Cataluña,Mujeres,47.22
+2010,Ceuta,Hombres,54.18
+2010,Ceuta,Mujeres,30.71
+2010,Comunidad de Madrid,Hombres,61.56
+2010,Comunidad de Madrid,Mujeres,50.16
+2010,Comunitat Valenciana,Hombres,52.35
+2010,Comunitat Valenciana,Mujeres,40.55
+2010,Extremadura,Hombres,50.88
+2010,Extremadura,Mujeres,33.18
+2010,Galicia,Hombres,52.28
+2010,Galicia,Mujeres,40.02
+2010,Illes Balears,Hombres,57.74
+2010,Illes Balears,Mujeres,48.22
+2010,La Rioja,Hombres,59.49
+2010,La Rioja,Mujeres,43.36
+2010,Melilla,Hombres,54.51
+2010,Melilla,Mujeres,29.51
+2010,Navarra,Hombres,60.08
+2010,Navarra,Mujeres,46.96
+2010,País Vasco,Hombres,58.92
+2010,País Vasco,Mujeres,45.41
+2010,Región de Murcia,Hombres,54.36
+2010,Región de Murcia,Mujeres,41.1
+2011,Andalucía,Hombres,47.75
+2011,Andalucía,Mujeres,34.42
+2011,Aragón,Hombres,55.24
+2011,Aragón,Mujeres,42.88
+2011,Asturias,Hombres,47.54
+2011,Asturias,Mujeres,38.13
+2011,Canarias,Hombres,48.86
+2011,Canarias,Mujeres,40.01
+2011,Cantabria,Hombres,53.94
+2011,Cantabria,Mujeres,42.0
+2011,Castilla y León,Hombres,52.97
+2011,Castilla y León,Mujeres,39.14
+2011,Castilla-La Mancha,Hombres,53.67
+2011,Castilla-La Mancha,Mujeres,37.19
+2011,Cataluña,Hombres,56.78
+2011,Cataluña,Mujeres,47.02
+2011,Ceuta,Hombres,52.84
+2011,Ceuta,Mujeres,29.07
+2011,Comunidad de Madrid,Hombres,60.19
+2011,Comunidad de Madrid,Mujeres,49.47
+2011,Comunitat Valenciana,Hombres,50.92
+2011,Comunitat Valenciana,Mujeres,40.05
+2011,Extremadura,Hombres,48.72
+2011,Extremadura,Mujeres,32.7
+2011,Galicia,Hombres,50.94
+2011,Galicia,Mujeres,40.16
+2011,Illes Balears,Hombres,55.56
+2011,Illes Balears,Mujeres,46.78
+2011,La Rioja,Hombres,56.33
+2011,La Rioja,Mujeres,44.05
+2011,Melilla,Hombres,54.66
+2011,Melilla,Mujeres,33.43
+2011,Navarra,Hombres,58.75
+2011,Navarra,Mujeres,47.42
+2011,País Vasco,Hombres,57.74
+2011,País Vasco,Mujeres,46.14
+2011,Región de Murcia,Hombres,52.42
+2011,Región de Murcia,Mujeres,39.77
+2012,Andalucía,Hombres,44.06
+2012,Andalucía,Mujeres,33.64
+2012,Aragón,Hombres,55.02
+2012,Aragón,Mujeres,42.9
+2012,Asturias,Hombres,45.94
+2012,Asturias,Mujeres,36.29
+2012,Canarias,Hombres,46.91
+2012,Canarias,Mujeres,38.1
+2012,Cantabria,Hombres,52.25
+2012,Cantabria,Mujeres,41.56
+2012,Castilla y León,Hombres,51.65
+2012,Castilla y León,Mujeres,37.46
+2012,Castilla-La Mancha,Hombres,49.92
+2012,Castilla-La Mancha,Mujeres,34.52
+2012,Cataluña,Hombres,53.48
+2012,Cataluña,Mujeres,45.0
+2012,Ceuta,Hombres,47.94
+2012,Ceuta,Mujeres,26.3
+2012,Comunidad de Madrid,Hombres,57.64
+2012,Comunidad de Madrid,Mujeres,49.21
+2012,Comunitat Valenciana,Hombres,48.54
+2012,Comunitat Valenciana,Mujeres,38.43
+2012,Extremadura,Hombres,43.98
+2012,Extremadura,Mujeres,30.0
+2012,Galicia,Hombres,48.32
+2012,Galicia,Mujeres,39.48
+2012,Illes Balears,Hombres,56.36
+2012,Illes Balears,Mujeres,46.64
+2012,La Rioja,Hombres,54.06
+2012,La Rioja,Mujeres,41.09
+2012,Melilla,Hombres,52.14
+2012,Melilla,Mujeres,30.61
+2012,Navarra,Hombres,55.66
+2012,Navarra,Mujeres,46.2
+2012,País Vasco,Hombres,54.46
+2012,País Vasco,Mujeres,44.07
+2012,Región de Murcia,Hombres,50.04
+2012,Región de Murcia,Mujeres,39.39
+2013,Andalucía,Hombres,42.83
+2013,Andalucía,Mujeres,32.38
+2013,Aragón,Hombres,52.01
+2013,Aragón,Mujeres,40.97
+2013,Asturias,Hombres,44.4
+2013,Asturias,Mujeres,35.6
+2013,Canarias,Hombres,44.59
+2013,Canarias,Mujeres,37.98
+2013,Cantabria,Hombres,50.19
+2013,Cantabria,Mujeres,39.45
+2013,Castilla y León,Hombres,48.96
+2013,Castilla y León,Mujeres,37.25
+2013,Castilla-La Mancha,Hombres,49.01
+2013,Castilla-La Mancha,Mujeres,34.3
+2013,Cataluña,Hombres,52.64
+2013,Cataluña,Mujeres,44.66
+2013,Ceuta,Hombres,50.04
+2013,Ceuta,Mujeres,27.94
+2013,Comunidad de Madrid,Hombres,56.69
+2013,Comunidad de Madrid,Mujeres,47.23
+2013,Comunitat Valenciana,Hombres,48.34
+2013,Comunitat Valenciana,Mujeres,37.69
+2013,Extremadura,Hombres,42.62
+2013,Extremadura,Mujeres,31.54
+2013,Galicia,Hombres,46.49
+2013,Galicia,Mujeres,38.33
+2013,Illes Balears,Hombres,56.15
+2013,Illes Balears,Mujeres,46.86
+2013,La Rioja,Hombres,52.62
+2013,La Rioja,Mujeres,42.35
+2013,Melilla,Hombres,45.95
+2013,Melilla,Mujeres,33.81
+2013,Navarra,Hombres,55.22
+2013,Navarra,Mujeres,43.66
+2013,País Vasco,Hombres,52.97
+2013,País Vasco,Mujeres,43.22
+2013,Región de Murcia,Hombres,49.64
+2013,Región de Murcia,Mujeres,37.6
+2014,Andalucía,Hombres,44.32
+2014,Andalucía,Mujeres,32.65
+2014,Aragón,Hombres,53.24
+2014,Aragón,Mujeres,40.99
+2014,Asturias,Hombres,45.44
+2014,Asturias,Mujeres,36.76
+2014,Canarias,Hombres,45.56
+2014,Canarias,Mujeres,37.42
+2014,Cantabria,Hombres,50.46
+2014,Cantabria,Mujeres,40.87
+2014,Castilla y León,Hombres,49.64
+2014,Castilla y León,Mujeres,37.71
+2014,Castilla-La Mancha,Hombres,49.47
+2014,Castilla-La Mancha,Mujeres,34.46
+2014,Cataluña,Hombres,53.97
+2014,Cataluña,Mujeres,46.02
+2014,Ceuta,Hombres,48.55
+2014,Ceuta,Mujeres,30.9
+2014,Comunidad de Madrid,Hombres,57.2
+2014,Comunidad de Madrid,Mujeres,47.1
+2014,Comunitat Valenciana,Hombres,49.15
+2014,Comunitat Valenciana,Mujeres,38.54
+2014,Extremadura,Hombres,45.68
+2014,Extremadura,Mujeres,31.84
+2014,Galicia,Hombres,46.22
+2014,Galicia,Mujeres,38.38
+2014,Illes Balears,Hombres,55.66
+2014,Illes Balears,Mujeres,48.2
+2014,La Rioja,Hombres,55.98
+2014,La Rioja,Mujeres,42.88
+2014,Melilla,Hombres,49.79
+2014,Melilla,Mujeres,29.99
+2014,Navarra,Hombres,55.4
+2014,Navarra,Mujeres,45.44
+2014,País Vasco,Hombres,52.47
+2014,País Vasco,Mujeres,43.28
+2014,Región de Murcia,Hombres,51.68
+2014,Región de Murcia,Mujeres,38.06
+2015,Andalucía,Hombres,46.45
+2015,Andalucía,Mujeres,34.25
+2015,Aragón,Hombres,56.45
+2015,Aragón,Mujeres,42.16
+2015,Asturias,Hombres,44.67
+2015,Asturias,Mujeres,38.12
+2015,Canarias,Hombres,49.07
+2015,Canarias,Mujeres,38.86
+2015,Cantabria,Hombres,52.01
+2015,Cantabria,Mujeres,40.7
+2015,Castilla y León,Hombres,51.41
+2015,Castilla y León,Mujeres,38.38
+2015,Castilla-La Mancha,Hombres,51.08
+2015,Castilla-La Mancha,Mujeres,35.2
+2015,Cataluña,Hombres,55.76
+2015,Cataluña,Mujeres,45.96
+2015,Ceuta,Hombres,52.72
+2015,Ceuta,Mujeres,29.87
+2015,Comunidad de Madrid,Hombres,58.64
+2015,Comunidad de Madrid,Mujeres,48.98
+2015,Comunitat Valenciana,Hombres,50.91
+2015,Comunitat Valenciana,Mujeres,40.56
+2015,Extremadura,Hombres,46.87
+2015,Extremadura,Mujeres,31.57
+2015,Galicia,Hombres,47.67
+2015,Galicia,Mujeres,38.97
+2015,Illes Balears,Hombres,58.61
+2015,Illes Balears,Mujeres,50.23
+2015,La Rioja,Hombres,56.74
+2015,La Rioja,Mujeres,43.96
+2015,Melilla,Hombres,47.39
+2015,Melilla,Mujeres,28.26
+2015,Navarra,Hombres,55.94
+2015,Navarra,Mujeres,45.52
+2015,País Vasco,Hombres,53.14
+2015,País Vasco,Mujeres,43.91
+2015,Región de Murcia,Hombres,52.92
+2015,Región de Murcia,Mujeres,36.78
+2016,Andalucía,Hombres,47.7
+2016,Andalucía,Mujeres,34.8
+2016,Aragón,Hombres,57.28
+2016,Aragón,Mujeres,44.11
+2016,Asturias,Hombres,45.81
+2016,Asturias,Mujeres,39.66
+2016,Canarias,Hombres,50.17
+2016,Canarias,Mujeres,40.34
+2016,Cantabria,Hombres,53.04
+2016,Cantabria,Mujeres,42.8
+2016,Castilla y León,Hombres,52.72
+2016,Castilla y León,Mujeres,40.23
+2016,Castilla-La Mancha,Hombres,52.84
+2016,Castilla-La Mancha,Mujeres,36.56
+2016,Cataluña,Hombres,57.28
+2016,Cataluña,Mujeres,47.54
+2016,Ceuta,Hombres,53.45
+2016,Ceuta,Mujeres,32.3
+2016,Comunidad de Madrid,Hombres,58.62
+2016,Comunidad de Madrid,Mujeres,49.16
+2016,Comunitat Valenciana,Hombres,52.76
+2016,Comunitat Valenciana,Mujeres,41.74
+2016,Extremadura,Hombres,47.83
+2016,Extremadura,Mujeres,32.25
+2016,Galicia,Hombres,48.8
+2016,Galicia,Mujeres,40.14
+2016,Illes Balears,Hombres,61.0
+2016,Illes Balears,Mujeres,51.4
+2016,La Rioja,Hombres,57.5
+2016,La Rioja,Mujeres,45.16
+2016,Melilla,Hombres,52.58
+2016,Melilla,Mujeres,28.87
+2016,Navarra,Hombres,56.49
+2016,Navarra,Mujeres,46.13
+2016,País Vasco,Hombres,55.01
+2016,País Vasco,Mujeres,44.94
+2016,Región de Murcia,Hombres,55.66
+2016,Región de Murcia,Mujeres,39.31
+2017,Andalucía,Hombres,49.61
+2017,Andalucía,Mujeres,36.11
+2017,Aragón,Hombres,58.75
+2017,Aragón,Mujeres,44.99
+2017,Asturias,Hombres,48.08
+2017,Asturias,Mujeres,40.1
+2017,Canarias,Hombres,51.06
+2017,Canarias,Mujeres,41.42
+2017,Cantabria,Hombres,52.85
+2017,Cantabria,Mujeres,43.87
+2017,Castilla y León,Hombres,53.4
+2017,Castilla y León,Mujeres,40.91
+2017,Castilla-La Mancha,Hombres,55.3
+2017,Castilla-La Mancha,Mujeres,37.99
+2017,Cataluña,Hombres,58.5
+2017,Cataluña,Mujeres,48.7
+2017,Ceuta,Hombres,52.98
+2017,Ceuta,Mujeres,33.58
+2017,Comunidad de Madrid,Hombres,59.5
+2017,Comunidad de Madrid,Mujeres,49.96
+2017,Comunitat Valenciana,Hombres,54.58
+2017,Comunitat Valenciana,Mujeres,42.42
+2017,Extremadura,Hombres,47.91
+2017,Extremadura,Mujeres,33.08
+2017,Galicia,Hombres,49.19
+2017,Galicia,Mujeres,41.06
+2017,Illes Balears,Hombres,61.46
+2017,Illes Balears,Mujeres,50.88
+2017,La Rioja,Hombres,58.51
+2017,La Rioja,Mujeres,45.52
+2017,Melilla,Hombres,55.62
+2017,Melilla,Mujeres,30.79
+2017,Navarra,Hombres,59.56
+2017,Navarra,Mujeres,46.78
+2017,País Vasco,Hombres,55.26
+2017,País Vasco,Mujeres,44.76
+2017,Región de Murcia,Hombres,56.57
+2017,Región de Murcia,Mujeres,41.09
+2018,Andalucía,Hombres,51.32
+2018,Andalucía,Mujeres,36.6
+2018,Aragón,Hombres,58.52
+2018,Aragón,Mujeres,46.56
+2018,Asturias,Hombres,48.23
+2018,Asturias,Mujeres,39.92
+2018,Canarias,Hombres,53.1
+2018,Canarias,Mujeres,43.6
+2018,Cantabria,Hombres,55.17
+2018,Cantabria,Mujeres,43.15
+2018,Castilla y León,Hombres,54.32
+2018,Castilla y León,Mujeres,41.76
+2018,Castilla-La Mancha,Hombres,57.1
+2018,Castilla-La Mancha,Mujeres,39.06
+2018,Cataluña,Hombres,59.32
+2018,Cataluña,Mujeres,49.46
+2018,Ceuta,Hombres,50.68
+2018,Ceuta,Mujeres,33.23
+2018,Comunidad de Madrid,Hombres,60.46
+2018,Comunidad de Madrid,Mujeres,50.48
+2018,Comunitat Valenciana,Hombres,55.81
+2018,Comunitat Valenciana,Mujeres,43.3
+2018,Extremadura,Hombres,50.48
+2018,Extremadura,Mujeres,34.18
+2018,Galicia,Hombres,50.4
+2018,Galicia,Mujeres,42.29
+2018,Illes Balears,Hombres,61.44
+2018,Illes Balears,Mujeres,52.59
+2018,La Rioja,Hombres,57.98
+2018,La Rioja,Mujeres,48.21
+2018,Melilla,Hombres,55.4
+2018,Melilla,Mujeres,37.29
+2018,Navarra,Hombres,57.68
+2018,Navarra,Mujeres,48.8
+2018,País Vasco,Hombres,55.14
+2018,País Vasco,Mujeres,46.53
+2018,Región de Murcia,Hombres,57.59
+2018,Región de Murcia,Mujeres,41.26
+2019,Andalucía,Hombres,52.12
+2019,Andalucía,Mujeres,37.71
+2019,Aragón,Hombres,59.7
+2019,Aragón,Mujeres,47.07
+2019,Asturias,Hombres,47.59
+2019,Asturias,Mujeres,39.81
+2019,Canarias,Hombres,52.57
+2019,Canarias,Mujeres,43.13
+2019,Cantabria,Hombres,55.27
+2019,Cantabria,Mujeres,43.9
+2019,Castilla y León,Hombres,54.68
+2019,Castilla y León,Mujeres,42.42
+2019,Castilla-La Mancha,Hombres,57.42
+2019,Castilla-La Mancha,Mujeres,40.56
+2019,Cataluña,Hombres,59.37
+2019,Cataluña,Mujeres,50.43
+2019,Ceuta,Hombres,51.82
+2019,Ceuta,Mujeres,34.32
+2019,Comunidad de Madrid,Hombres,61.15
+2019,Comunidad de Madrid,Mujeres,51.66
+2019,Comunitat Valenciana,Hombres,56.99
+2019,Comunitat Valenciana,Mujeres,43.32
+2019,Extremadura,Hombres,52.1
+2019,Extremadura,Mujeres,35.42
+2019,Galicia,Hombres,51.4
+2019,Galicia,Mujeres,42.77
+2019,Illes Balears,Hombres,62.33
+2019,Illes Balears,Mujeres,51.41
+2019,La Rioja,Hombres,57.67
+2019,La Rioja,Mujeres,49.65
+2019,Melilla,Hombres,52.1
+2019,Melilla,Mujeres,36.2
+2019,Navarra,Hombres,58.78
+2019,Navarra,Mujeres,48.98
+2019,País Vasco,Hombres,55.16
+2019,País Vasco,Mujeres,47.23
+2019,Región de Murcia,Hombres,58.52
+2019,Región de Murcia,Mujeres,42.47
+2020,Andalucía,Hombres,50.66
+2020,Andalucía,Mujeres,35.73
+2020,Aragón,Hombres,57.0
+2020,Aragón,Mujeres,45.83
+2020,Asturias,Hombres,46.71
+2020,Asturias,Mujeres,39.58
+2020,Canarias,Hombres,48.17
+2020,Canarias,Mujeres,40.38
+2020,Cantabria,Hombres,52.31
+2020,Cantabria,Mujeres,42.57
+2020,Castilla y León,Hombres,53.02
+2020,Castilla y León,Mujeres,41.74
+2020,Castilla-La Mancha,Hombres,55.77
+2020,Castilla-La Mancha,Mujeres,38.48
+2020,Cataluña,Hombres,57.37
+2020,Cataluña,Mujeres,48.33
+2020,Ceuta,Hombres,50.59
+2020,Ceuta,Mujeres,34.4
+2020,Comunidad de Madrid,Hombres,58.89
+2020,Comunidad de Madrid,Mujeres,50.31
+2020,Comunitat Valenciana,Hombres,54.17
+2020,Comunitat Valenciana,Mujeres,41.96
+2020,Extremadura,Hombres,49.14
+2020,Extremadura,Mujeres,36.11
+2020,Galicia,Hombres,50.88
+2020,Galicia,Mujeres,41.39
+2020,Illes Balears,Hombres,56.43
+2020,Illes Balears,Mujeres,46.96
+2020,La Rioja,Hombres,57.75
+2020,La Rioja,Mujeres,46.66
+2020,Melilla,Hombres,54.78
+2020,Melilla,Mujeres,40.38
+2020,Navarra,Hombres,56.22
+2020,Navarra,Mujeres,46.69
+2020,País Vasco,Hombres,53.86
+2020,País Vasco,Mujeres,46.05
+2020,Región de Murcia,Hombres,57.36
+2020,Región de Murcia,Mujeres,41.38
+2021,Andalucía,Hombres,51.65
+2021,Andalucía,Mujeres,37.74
+2021,Aragón,Hombres,58.04
+2021,Aragón,Mujeres,46.86
+2021,Asturias,Hombres,49.06
+2021,Asturias,Mujeres,39.84
+2021,Canarias,Hombres,47.74
+2021,Canarias,Mujeres,40.94
+2021,Cantabria,Hombres,54.71
+2021,Cantabria,Mujeres,43.7
+2021,Castilla y León,Hombres,53.34
+2021,Castilla y León,Mujeres,41.44
+2021,Castilla-La Mancha,Hombres,57.89
+2021,Castilla-La Mancha,Mujeres,40.82
+2021,Cataluña,Hombres,58.96
+2021,Cataluña,Mujeres,49.34
+2021,Ceuta,Hombres,44.92
+2021,Ceuta,Mujeres,32.2
+2021,Comunidad de Madrid,Hombres,60.5
+2021,Comunidad de Madrid,Mujeres,51.82
+2021,Comunitat Valenciana,Hombres,54.33
+2021,Comunitat Valenciana,Mujeres,42.9
+2021,Extremadura,Hombres,51.25
+2021,Extremadura,Mujeres,36.32
+2021,Galicia,Hombres,51.16
+2021,Galicia,Mujeres,42.0
+2021,Illes Balears,Hombres,58.66
+2021,Illes Balears,Mujeres,49.73
+2021,La Rioja,Hombres,59.28
+2021,La Rioja,Mujeres,46.84
+2021,Melilla,Hombres,53.74
+2021,Melilla,Mujeres,36.82
+2021,Navarra,Hombres,54.91
+2021,Navarra,Mujeres,49.06
+2021,País Vasco,Hombres,54.34
+2021,País Vasco,Mujeres,46.88
+2021,Región de Murcia,Hombres,59.58
+2021,Región de Murcia,Mujeres,43.2
+2022,Andalucía,Hombres,52.57
+2022,Andalucía,Mujeres,39.33
+2022,Aragón,Hombres,58.97
+2022,Aragón,Mujeres,47.37
+2022,Asturias,Hombres,48.02
+2022,Asturias,Mujeres,38.97
+2022,Canarias,Hombres,53.8
+2022,Canarias,Mujeres,43.85
+2022,Cantabria,Hombres,55.48
+2022,Cantabria,Mujeres,43.9
+2022,Castilla y León,Hombres,54.01
+2022,Castilla y León,Mujeres,43.99
+2022,Castilla-La Mancha,Hombres,58.56
+2022,Castilla-La Mancha,Mujeres,41.72
+2022,Cataluña,Hombres,59.78
+2022,Cataluña,Mujeres,50.19
+2022,Ceuta,Hombres,50.5
+2022,Ceuta,Mujeres,34.73
+2022,Comunidad de Madrid,Hombres,61.76
+2022,Comunidad de Madrid,Mujeres,51.21
+2022,Comunitat Valenciana,Hombres,57.02
+2022,Comunitat Valenciana,Mujeres,45.06
+2022,Extremadura,Hombres,52.33
+2022,Extremadura,Mujeres,38.62
+2022,Galicia,Hombres,51.25
+2022,Galicia,Mujeres,43.08
+2022,Illes Balears,Hombres,62.38
+2022,Illes Balears,Mujeres,52.13
+2022,La Rioja,Hombres,59.21
+2022,La Rioja,Mujeres,48.67
+2022,Melilla,Hombres,52.72
+2022,Melilla,Mujeres,34.6
+2022,Navarra,Hombres,57.7
+2022,Navarra,Mujeres,48.45
+2022,País Vasco,Hombres,56.23
+2022,País Vasco,Mujeres,46.99
+2022,Región de Murcia,Hombres,58.3
+2022,Región de Murcia,Mujeres,44.68
+2023,Andalucía,Hombres,53.0
+2023,Andalucía,Mujeres,40.92
+2023,Aragón,Hombres,59.32
+2023,Aragón,Mujeres,48.02
+2023,Asturias,Hombres,47.41
+2023,Asturias,Mujeres,40.96
+2023,Canarias,Hombres,55.74
+2023,Canarias,Mujeres,44.84
+2023,Cantabria,Hombres,55.63
+2023,Cantabria,Mujeres,45.46
+2023,Castilla y León,Hombres,54.58
+2023,Castilla y León,Mujeres,43.2
+2023,Castilla-La Mancha,Hombres,58.53
+2023,Castilla-La Mancha,Mujeres,43.18
+2023,Cataluña,Hombres,60.45
+2023,Cataluña,Mujeres,51.3
+2023,Ceuta,Hombres,50.02
+2023,Ceuta,Mujeres,36.63
+2023,Comunidad de Madrid,Hombres,61.82
+2023,Comunidad de Madrid,Mujeres,52.56
+2023,Comunitat Valenciana,Hombres,57.44
+2023,Comunitat Valenciana,Mujeres,46.08
+2023,Extremadura,Hombres,52.9
+2023,Extremadura,Mujeres,39.4
+2023,Galicia,Hombres,52.07
+2023,Galicia,Mujeres,43.99
+2023,Illes Balears,Hombres,61.42
+2023,Illes Balears,Mujeres,52.74
+2023,La Rioja,Hombres,59.38
+2023,La Rioja,Mujeres,47.7
+2023,Melilla,Hombres,45.17
+2023,Melilla,Mujeres,36.52
+2023,Navarra,Hombres,57.67
+2023,Navarra,Mujeres,48.36
+2023,País Vasco,Hombres,57.42
+2023,País Vasco,Mujeres,47.84
+2023,Región de Murcia,Hombres,58.9
+2023,Región de Murcia,Mujeres,45.11
+2024,Andalucía,Hombres,54.0
+2024,Andalucía,Mujeres,41.22
+2024,Aragón,Hombres,59.6
+2024,Aragón,Mujeres,48.49
+2024,Asturias,Hombres,50.44
+2024,Asturias,Mujeres,42.41
+2024,Canarias,Hombres,56.02
+2024,Canarias,Mujeres,46.92
+2024,Cantabria,Hombres,57.2
+2024,Cantabria,Mujeres,46.21
+2024,Castilla y León,Hombres,54.39
+2024,Castilla y León,Mujeres,44.2
+2024,Castilla-La Mancha,Hombres,58.04
+2024,Castilla-La Mancha,Mujeres,42.78
+2024,Cataluña,Hombres,61.32
+2024,Cataluña,Mujeres,51.13
+2024,Ceuta,Hombres,53.92
+2024,Ceuta,Mujeres,34.3
+2024,Comunidad de Madrid,Hombres,61.93
+2024,Comunidad de Madrid,Mujeres,53.48
+2024,Comunitat Valenciana,Hombres,56.84
+2024,Comunitat Valenciana,Mujeres,46.3
+2024,Extremadura,Hombres,52.2
+2024,Extremadura,Mujeres,40.51
+2024,Galicia,Hombres,52.32
+2024,Galicia,Mujeres,44.5
+2024,Illes Balears,Hombres,62.73
+2024,Illes Balears,Mujeres,53.27
+2024,La Rioja,Hombres,58.14
+2024,La Rioja,Mujeres,47.57
+2024,Melilla,Hombres,46.23
+2024,Melilla,Mujeres,38.09
+2024,Navarra,Hombres,59.16
+2024,Navarra,Mujeres,50.43
+2024,País Vasco,Hombres,55.02
+2024,País Vasco,Mujeres,48.26
+2024,Región de Murcia,Hombres,58.19
+2024,Región de Murcia,Mujeres,46.16
+2025,Andalucía,Hombres,54.25
+2025,Andalucía,Mujeres,41.78
+2025,Aragón,Hombres,59.99
+2025,Aragón,Mujeres,47.92
+2025,Asturias,Hombres,52.5
+2025,Asturias,Mujeres,44.25
+2025,Canarias,Hombres,56.2
+2025,Canarias,Mujeres,47.78
+2025,Cantabria,Hombres,56.3
+2025,Cantabria,Mujeres,46.66
+2025,Castilla y León,Hombres,54.8
+2025,Castilla y León,Mujeres,44.72
+2025,Castilla-La Mancha,Hombres,57.78
+2025,Castilla-La Mancha,Mujeres,43.47
+2025,Cataluña,Hombres,61.52
+2025,Cataluña,Mujeres,51.84
+2025,Ceuta,Hombres,54.36
+2025,Ceuta,Mujeres,36.86
+2025,Comunidad de Madrid,Hombres,62.11
+2025,Comunidad de Madrid,Mujeres,54.82
+2025,Comunitat Valenciana,Hombres,57.06
+2025,Comunitat Valenciana,Mujeres,45.88
+2025,Extremadura,Hombres,51.37
+2025,Extremadura,Mujeres,41.24
+2025,Galicia,Hombres,51.7
+2025,Galicia,Mujeres,45.74
+2025,Illes Balears,Hombres,60.68
+2025,Illes Balears,Mujeres,52.55
+2025,La Rioja,Hombres,58.38
+2025,La Rioja,Mujeres,49.37
+2025,Melilla,Hombres,47.82
+2025,Melilla,Mujeres,35.08
+2025,Navarra,Hombres,59.17
+2025,Navarra,Mujeres,49.74
+2025,País Vasco,Hombres,54.0
+2025,País Vasco,Mujeres,49.12
+2025,Región de Murcia,Hombres,59.26
+2025,Región de Murcia,Mujeres,45.06

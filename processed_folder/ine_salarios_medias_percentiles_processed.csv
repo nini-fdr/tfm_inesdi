@@ -1,0 +1,2177 @@
+year,comunidad_autonoma,sexo,medida,value
+2008,Andalucía,Hombres,cuartil_25,14757.95
+2008,Andalucía,Hombres,cuartil_75,26005.41
+2008,Andalucía,Hombres,media,22108.57
+2008,Andalucía,Hombres,mediana,18513.57
+2008,Andalucía,Mujeres,cuartil_25,9859.25
+2008,Andalucía,Mujeres,cuartil_75,22198.09
+2008,Andalucía,Mujeres,media,17298.33
+2008,Andalucía,Mujeres,mediana,15137.4
+2008,Aragón,Hombres,cuartil_25,16449.72
+2008,Aragón,Hombres,cuartil_75,29441.16
+2008,Aragón,Hombres,media,24272.36
+2008,Aragón,Hombres,mediana,21551.6
+2008,Aragón,Mujeres,cuartil_25,11113.81
+2008,Aragón,Mujeres,cuartil_75,21890.54
+2008,Aragón,Mujeres,media,17843.46
+2008,Aragón,Mujeres,mediana,15608.17
+2008,Asturias,Hombres,cuartil_25,15921.69
+2008,Asturias,Hombres,cuartil_75,29593.39
+2008,Asturias,Hombres,media,24306.27
+2008,Asturias,Hombres,mediana,21173.29
+2008,Asturias,Mujeres,cuartil_25,10925.78
+2008,Asturias,Mujeres,cuartil_75,22456.42
+2008,Asturias,Mujeres,media,18452.09
+2008,Asturias,Mujeres,mediana,15419.78
+2008,Canarias,Hombres,cuartil_25,13258.2
+2008,Canarias,Hombres,cuartil_75,22563.83
+2008,Canarias,Hombres,media,19516.93
+2008,Canarias,Hombres,mediana,16310.4
+2008,Canarias,Mujeres,cuartil_25,10303.63
+2008,Canarias,Mujeres,cuartil_75,20542.93
+2008,Canarias,Mujeres,media,17131.85
+2008,Canarias,Mujeres,mediana,14621.63
+2008,Cantabria,Hombres,cuartil_25,15546.39
+2008,Cantabria,Hombres,cuartil_75,26679.56
+2008,Cantabria,Hombres,media,22539.72
+2008,Cantabria,Hombres,mediana,19401.56
+2008,Cantabria,Mujeres,cuartil_25,10465.79
+2008,Cantabria,Mujeres,cuartil_75,21810.64
+2008,Cantabria,Mujeres,media,17460.14
+2008,Cantabria,Mujeres,mediana,15029.34
+2008,Castilla y León,Hombres,cuartil_25,14656.35
+2008,Castilla y León,Hombres,cuartil_75,26504.73
+2008,Castilla y León,Hombres,media,22117.28
+2008,Castilla y León,Hombres,mediana,18663.75
+2008,Castilla y León,Mujeres,cuartil_25,10445.72
+2008,Castilla y León,Mujeres,cuartil_75,21733.65
+2008,Castilla y León,Mujeres,media,17573.56
+2008,Castilla y León,Mujeres,mediana,14817.65
+2008,Castilla-La Mancha,Hombres,cuartil_25,14405.04
+2008,Castilla-La Mancha,Hombres,cuartil_75,24158.8
+2008,Castilla-La Mancha,Hombres,media,21141.95
+2008,Castilla-La Mancha,Hombres,mediana,17456.35
+2008,Castilla-La Mancha,Mujeres,cuartil_25,10271.64
+2008,Castilla-La Mancha,Mujeres,cuartil_75,22037.78
+2008,Castilla-La Mancha,Mujeres,media,17562.94
+2008,Castilla-La Mancha,Mujeres,mediana,14887.81
+2008,Cataluña,Hombres,cuartil_25,16421.65
+2008,Cataluña,Hombres,cuartil_75,32385.25
+2008,Cataluña,Hombres,media,26353.89
+2008,Cataluña,Hombres,mediana,22477.59
+2008,Cataluña,Mujeres,cuartil_25,11900.52
+2008,Cataluña,Mujeres,cuartil_75,24755.68
+2008,Cataluña,Mujeres,media,19928.48
+2008,Cataluña,Mujeres,mediana,16949.36
+2008,Comunidad de Madrid,Hombres,cuartil_25,15897.87
+2008,Comunidad de Madrid,Hombres,cuartil_75,35649.96
+2008,Comunidad de Madrid,Hombres,media,28228.42
+2008,Comunidad de Madrid,Hombres,mediana,22633.84
+2008,Comunidad de Madrid,Mujeres,cuartil_25,12039.09
+2008,Comunidad de Madrid,Mujeres,cuartil_75,27719.89
+2008,Comunidad de Madrid,Mujeres,media,21787.75
+2008,Comunidad de Madrid,Mujeres,mediana,17532.26
+2008,Comunitat Valenciana,Hombres,cuartil_25,14621.75
+2008,Comunitat Valenciana,Hombres,cuartil_75,26073.14
+2008,Comunitat Valenciana,Hombres,media,22039.14
+2008,Comunitat Valenciana,Hombres,mediana,18500.25
+2008,Comunitat Valenciana,Mujeres,cuartil_25,10458.44
+2008,Comunitat Valenciana,Mujeres,cuartil_75,20693.12
+2008,Comunitat Valenciana,Mujeres,media,16929.69
+2008,Comunitat Valenciana,Mujeres,mediana,14699.57
+2008,Extremadura,Hombres,cuartil_25,13506.72
+2008,Extremadura,Hombres,cuartil_75,21664.25
+2008,Extremadura,Hombres,media,19390.41
+2008,Extremadura,Hombres,mediana,16043.7
+2008,Extremadura,Mujeres,cuartil_25,10184.48
+2008,Extremadura,Mujeres,cuartil_75,20850.98
+2008,Extremadura,Mujeres,media,16623.4
+2008,Extremadura,Mujeres,mediana,14217.78
+2008,Galicia,Hombres,cuartil_25,14386.25
+2008,Galicia,Hombres,cuartil_75,24501.56
+2008,Galicia,Hombres,media,21105.6
+2008,Galicia,Hombres,mediana,17253.93
+2008,Galicia,Mujeres,cuartil_25,10201.5
+2008,Galicia,Mujeres,cuartil_75,20256.48
+2008,Galicia,Mujeres,media,16646.42
+2008,Galicia,Mujeres,mediana,13859.44
+2008,Illes Balears,Hombres,cuartil_25,14732.9
+2008,Illes Balears,Hombres,cuartil_75,25004.38
+2008,Illes Balears,Hombres,media,22253.73
+2008,Illes Balears,Hombres,mediana,18199.91
+2008,Illes Balears,Mujeres,cuartil_25,11853.68
+2008,Illes Balears,Mujeres,cuartil_75,21092.28
+2008,Illes Balears,Mujeres,media,18159.78
+2008,Illes Balears,Mujeres,mediana,15385.11
+2008,La Rioja,Hombres,cuartil_25,15874.8
+2008,La Rioja,Hombres,cuartil_75,25979.36
+2008,La Rioja,Hombres,media,22549.68
+2008,La Rioja,Hombres,mediana,19392.13
+2008,La Rioja,Mujeres,cuartil_25,10949.31
+2008,La Rioja,Mujeres,cuartil_75,21894.92
+2008,La Rioja,Mujeres,media,18364.2
+2008,La Rioja,Mujeres,mediana,15450.58
+2008,Navarra,Hombres,cuartil_25,19000.94
+2008,Navarra,Hombres,cuartil_75,32498.86
+2008,Navarra,Hombres,media,26635.75
+2008,Navarra,Hombres,mediana,24983.72
+2008,Navarra,Mujeres,cuartil_25,12036.96
+2008,Navarra,Mujeres,cuartil_75,23829.72
+2008,Navarra,Mujeres,media,19212.76
+2008,Navarra,Mujeres,mediana,17073.42
+2008,País Vasco,Hombres,cuartil_25,19086.06
+2008,País Vasco,Hombres,cuartil_75,35508.0
+2008,País Vasco,Hombres,media,28264.0
+2008,País Vasco,Hombres,mediana,25863.81
+2008,País Vasco,Mujeres,cuartil_25,12998.43
+2008,País Vasco,Mujeres,cuartil_75,28657.13
+2008,País Vasco,Mujeres,media,21766.07
+2008,País Vasco,Mujeres,mediana,18774.61
+2008,Región de Murcia,Hombres,cuartil_25,14704.93
+2008,Región de Murcia,Hombres,cuartil_75,24952.73
+2008,Región de Murcia,Hombres,media,21174.93
+2008,Región de Murcia,Hombres,mediana,17602.94
+2008,Región de Murcia,Mujeres,cuartil_25,9322.44
+2008,Región de Murcia,Mujeres,cuartil_75,20421.27
+2008,Región de Murcia,Mujeres,media,16020.2
+2008,Región de Murcia,Mujeres,mediana,13626.31
+2009,Andalucía,Hombres,cuartil_25,14880.34
+2009,Andalucía,Hombres,cuartil_75,28186.49
+2009,Andalucía,Hombres,media,22908.86
+2009,Andalucía,Hombres,mediana,19125.41
+2009,Andalucía,Mujeres,cuartil_25,10054.28
+2009,Andalucía,Mujeres,cuartil_75,23749.28
+2009,Andalucía,Mujeres,media,18371.23
+2009,Andalucía,Mujeres,mediana,15963.82
+2009,Aragón,Hombres,cuartil_25,16667.1
+2009,Aragón,Hombres,cuartil_75,30147.1
+2009,Aragón,Hombres,media,24787.81
+2009,Aragón,Hombres,mediana,21989.38
+2009,Aragón,Mujeres,cuartil_25,11323.32
+2009,Aragón,Mujeres,cuartil_75,22993.08
+2009,Aragón,Mujeres,media,18861.82
+2009,Aragón,Mujeres,mediana,15878.02
+2009,Asturias,Hombres,cuartil_25,16235.44
+2009,Asturias,Hombres,cuartil_75,30900.02
+2009,Asturias,Hombres,media,25175.71
+2009,Asturias,Hombres,mediana,21397.37
+2009,Asturias,Mujeres,cuartil_25,11366.85
+2009,Asturias,Mujeres,cuartil_75,24173.23
+2009,Asturias,Mujeres,media,19289.76
+2009,Asturias,Mujeres,mediana,15857.5
+2009,Canarias,Hombres,cuartil_25,13590.0
+2009,Canarias,Hombres,cuartil_75,24200.4
+2009,Canarias,Hombres,media,20109.24
+2009,Canarias,Hombres,mediana,16949.1
+2009,Canarias,Mujeres,cuartil_25,10595.76
+2009,Canarias,Mujeres,cuartil_75,21483.88
+2009,Canarias,Mujeres,media,17528.33
+2009,Canarias,Mujeres,mediana,15139.91
+2009,Cantabria,Hombres,cuartil_25,15767.6
+2009,Cantabria,Hombres,cuartil_75,27898.78
+2009,Cantabria,Hombres,media,22933.0
+2009,Cantabria,Hombres,mediana,20134.47
+2009,Cantabria,Mujeres,cuartil_25,10343.01
+2009,Cantabria,Mujeres,cuartil_75,23159.33
+2009,Cantabria,Mujeres,media,18210.65
+2009,Cantabria,Mujeres,mediana,14415.9
+2009,Castilla y León,Hombres,cuartil_25,14865.17
+2009,Castilla y León,Hombres,cuartil_75,27749.03
+2009,Castilla y León,Hombres,media,23116.47
+2009,Castilla y León,Hombres,mediana,19133.17
+2009,Castilla y León,Mujeres,cuartil_25,10573.33
+2009,Castilla y León,Mujeres,cuartil_75,22894.37
+2009,Castilla y León,Mujeres,media,18249.87
+2009,Castilla y León,Mujeres,mediana,15309.12
+2009,Castilla-La Mancha,Hombres,cuartil_25,14896.75
+2009,Castilla-La Mancha,Hombres,cuartil_75,25093.3
+2009,Castilla-La Mancha,Hombres,media,21980.61
+2009,Castilla-La Mancha,Hombres,mediana,18001.5
+2009,Castilla-La Mancha,Mujeres,cuartil_25,10302.2
+2009,Castilla-La Mancha,Mujeres,cuartil_75,22109.88
+2009,Castilla-La Mancha,Mujeres,media,17709.92
+2009,Castilla-La Mancha,Mujeres,mediana,15057.5
+2009,Cataluña,Hombres,cuartil_25,16978.71
+2009,Cataluña,Hombres,cuartil_75,32997.5
+2009,Cataluña,Hombres,media,26901.3
+2009,Cataluña,Hombres,mediana,23196.66
+2009,Cataluña,Mujeres,cuartil_25,12155.03
+2009,Cataluña,Mujeres,cuartil_75,25885.35
+2009,Cataluña,Mujeres,media,20467.14
+2009,Cataluña,Mujeres,mediana,17630.34
+2009,Comunidad de Madrid,Hombres,cuartil_25,16422.0
+2009,Comunidad de Madrid,Hombres,cuartil_75,37212.94
+2009,Comunidad de Madrid,Hombres,media,29333.06
+2009,Comunidad de Madrid,Hombres,mediana,23526.93
+2009,Comunidad de Madrid,Mujeres,cuartil_25,12448.45
+2009,Comunidad de Madrid,Mujeres,cuartil_75,27994.3
+2009,Comunidad de Madrid,Mujeres,media,22048.25
+2009,Comunidad de Madrid,Mujeres,mediana,17845.57
+2009,Comunitat Valenciana,Hombres,cuartil_25,15146.7
+2009,Comunitat Valenciana,Hombres,cuartil_75,27810.02
+2009,Comunitat Valenciana,Hombres,media,22951.64
+2009,Comunitat Valenciana,Hombres,mediana,19025.75
+2009,Comunitat Valenciana,Mujeres,cuartil_25,10229.54
+2009,Comunitat Valenciana,Mujeres,cuartil_75,21691.3
+2009,Comunitat Valenciana,Mujeres,media,17426.72
+2009,Comunitat Valenciana,Mujeres,mediana,15001.98
+2009,Extremadura,Hombres,cuartil_25,13741.96
+2009,Extremadura,Hombres,cuartil_75,22967.51
+2009,Extremadura,Hombres,media,20207.93
+2009,Extremadura,Hombres,mediana,16710.36
+2009,Extremadura,Mujeres,cuartil_25,10057.2
+2009,Extremadura,Mujeres,cuartil_75,22824.18
+2009,Extremadura,Mujeres,media,17549.86
+2009,Extremadura,Mujeres,mediana,15103.1
+2009,Galicia,Hombres,cuartil_25,14575.86
+2009,Galicia,Hombres,cuartil_75,25696.95
+2009,Galicia,Hombres,media,21829.8
+2009,Galicia,Hombres,mediana,17724.17
+2009,Galicia,Mujeres,cuartil_25,10593.37
+2009,Galicia,Mujeres,cuartil_75,21676.96
+2009,Galicia,Mujeres,media,17342.32
+2009,Galicia,Mujeres,mediana,14605.25
+2009,Illes Balears,Hombres,cuartil_25,15148.63
+2009,Illes Balears,Hombres,cuartil_75,26518.22
+2009,Illes Balears,Hombres,media,23285.93
+2009,Illes Balears,Hombres,mediana,18869.73
+2009,Illes Balears,Mujeres,cuartil_25,12707.4
+2009,Illes Balears,Mujeres,cuartil_75,22117.55
+2009,Illes Balears,Mujeres,media,18702.72
+2009,Illes Balears,Mujeres,mediana,15889.99
+2009,La Rioja,Hombres,cuartil_25,16108.09
+2009,La Rioja,Hombres,cuartil_75,26865.55
+2009,La Rioja,Hombres,media,23240.0
+2009,La Rioja,Hombres,mediana,20019.66
+2009,La Rioja,Mujeres,cuartil_25,11762.2
+2009,La Rioja,Mujeres,cuartil_75,22536.54
+2009,La Rioja,Mujeres,media,18702.22
+2009,La Rioja,Mujeres,mediana,16011.14
+2009,Navarra,Hombres,cuartil_25,18991.4
+2009,Navarra,Hombres,cuartil_75,32785.52
+2009,Navarra,Hombres,media,26755.77
+2009,Navarra,Hombres,mediana,24499.72
+2009,Navarra,Mujeres,cuartil_25,11986.88
+2009,Navarra,Mujeres,cuartil_75,24633.33
+2009,Navarra,Mujeres,media,19487.55
+2009,Navarra,Mujeres,mediana,17933.01
+2009,País Vasco,Hombres,cuartil_25,19324.52
+2009,País Vasco,Hombres,cuartil_75,36052.56
+2009,País Vasco,Hombres,media,28889.92
+2009,País Vasco,Hombres,mediana,26269.99
+2009,País Vasco,Mujeres,cuartil_25,12940.86
+2009,País Vasco,Mujeres,cuartil_75,30479.78
+2009,País Vasco,Mujeres,media,22502.47
+2009,País Vasco,Mujeres,mediana,19422.02
+2009,Región de Murcia,Hombres,cuartil_25,14926.58
+2009,Región de Murcia,Hombres,cuartil_75,27868.92
+2009,Región de Murcia,Hombres,media,22628.62
+2009,Región de Murcia,Hombres,mediana,18578.36
+2009,Región de Murcia,Mujeres,cuartil_25,9567.77
+2009,Región de Murcia,Mujeres,cuartil_75,22295.6
+2009,Región de Murcia,Mujeres,media,17384.95
+2009,Región de Murcia,Mujeres,mediana,14140.0
+2010,Andalucía,Hombres,cuartil_25,15000.28
+2010,Andalucía,Hombres,cuartil_75,28035.21
+2010,Andalucía,Hombres,media,23463.96
+2010,Andalucía,Hombres,mediana,19328.83
+2010,Andalucía,Mujeres,cuartil_25,9967.4
+2010,Andalucía,Mujeres,cuartil_75,22617.39
+2010,Andalucía,Mujeres,media,17921.33
+2010,Andalucía,Mujeres,mediana,14845.01
+2010,Aragón,Hombres,cuartil_25,16806.8
+2010,Aragón,Hombres,cuartil_75,30260.95
+2010,Aragón,Hombres,media,25263.29
+2010,Aragón,Hombres,mediana,22129.41
+2010,Aragón,Mujeres,cuartil_25,11586.66
+2010,Aragón,Mujeres,cuartil_75,23033.22
+2010,Aragón,Mujeres,media,18843.25
+2010,Aragón,Mujeres,mediana,16412.07
+2010,Asturias,Hombres,cuartil_25,16680.81
+2010,Asturias,Hombres,cuartil_75,31148.16
+2010,Asturias,Hombres,media,25170.79
+2010,Asturias,Hombres,mediana,21831.09
+2010,Asturias,Mujeres,cuartil_25,11465.37
+2010,Asturias,Mujeres,cuartil_75,23519.22
+2010,Asturias,Mujeres,media,18786.13
+2010,Asturias,Mujeres,mediana,15362.12
+2010,Canarias,Hombres,cuartil_25,13055.06
+2010,Canarias,Hombres,cuartil_75,25503.84
+2010,Canarias,Hombres,media,20986.94
+2010,Canarias,Hombres,mediana,16986.2
+2010,Canarias,Mujeres,cuartil_25,10263.08
+2010,Canarias,Mujeres,cuartil_75,21771.48
+2010,Canarias,Mujeres,media,17601.79
+2010,Canarias,Mujeres,mediana,14370.7
+2010,Cantabria,Hombres,cuartil_25,15973.91
+2010,Cantabria,Hombres,cuartil_75,29034.92
+2010,Cantabria,Hombres,media,23924.51
+2010,Cantabria,Hombres,mediana,20491.2
+2010,Cantabria,Mujeres,cuartil_25,10578.72
+2010,Cantabria,Mujeres,cuartil_75,22075.96
+2010,Cantabria,Mujeres,media,17887.59
+2010,Cantabria,Mujeres,mediana,14813.15
+2010,Castilla y León,Hombres,cuartil_25,15278.42
+2010,Castilla y León,Hombres,cuartil_75,28604.57
+2010,Castilla y León,Hombres,media,23640.67
+2010,Castilla y León,Hombres,mediana,19553.56
+2010,Castilla y León,Mujeres,cuartil_25,10239.1
+2010,Castilla y León,Mujeres,cuartil_75,21828.54
+2010,Castilla y León,Mujeres,media,17683.88
+2010,Castilla y León,Mujeres,mediana,15103.16
+2010,Castilla-La Mancha,Hombres,cuartil_25,15304.92
+2010,Castilla-La Mancha,Hombres,cuartil_75,25468.7
+2010,Castilla-La Mancha,Hombres,media,22292.84
+2010,Castilla-La Mancha,Hombres,mediana,18649.8
+2010,Castilla-La Mancha,Mujeres,cuartil_25,10193.69
+2010,Castilla-La Mancha,Mujeres,cuartil_75,22265.92
+2010,Castilla-La Mancha,Mujeres,media,17913.0
+2010,Castilla-La Mancha,Mujeres,mediana,15059.88
+2010,Cataluña,Hombres,cuartil_25,17254.96
+2010,Cataluña,Hombres,cuartil_75,34215.18
+2010,Cataluña,Hombres,media,27601.02
+2010,Cataluña,Hombres,mediana,23488.62
+2010,Cataluña,Mujeres,cuartil_25,12314.57
+2010,Cataluña,Mujeres,cuartil_75,26680.29
+2010,Cataluña,Mujeres,media,21042.14
+2010,Cataluña,Mujeres,mediana,18016.02
+2010,Comunidad de Madrid,Hombres,cuartil_25,16650.2
+2010,Comunidad de Madrid,Hombres,cuartil_75,36000.02
+2010,Comunidad de Madrid,Hombres,media,29016.28
+2010,Comunidad de Madrid,Hombres,mediana,23662.92
+2010,Comunidad de Madrid,Mujeres,cuartil_25,13081.11
+2010,Comunidad de Madrid,Mujeres,cuartil_75,28789.2
+2010,Comunidad de Madrid,Mujeres,media,22721.17
+2010,Comunidad de Madrid,Mujeres,mediana,18788.2
+2010,Comunitat Valenciana,Hombres,cuartil_25,14890.79
+2010,Comunitat Valenciana,Hombres,cuartil_75,27990.08
+2010,Comunitat Valenciana,Hombres,media,23331.71
+2010,Comunitat Valenciana,Hombres,mediana,19562.83
+2010,Comunitat Valenciana,Mujeres,cuartil_25,10660.83
+2010,Comunitat Valenciana,Mujeres,cuartil_75,22202.72
+2010,Comunitat Valenciana,Mujeres,media,17776.59
+2010,Comunitat Valenciana,Mujeres,mediana,15293.73
+2010,Extremadura,Hombres,cuartil_25,13922.04
+2010,Extremadura,Hombres,cuartil_75,22923.6
+2010,Extremadura,Hombres,media,20787.03
+2010,Extremadura,Hombres,mediana,16856.46
+2010,Extremadura,Mujeres,cuartil_25,9962.15
+2010,Extremadura,Mujeres,cuartil_75,23111.87
+2010,Extremadura,Mujeres,media,17876.85
+2010,Extremadura,Mujeres,mediana,14334.72
+2010,Galicia,Hombres,cuartil_25,15403.59
+2010,Galicia,Hombres,cuartil_75,25925.22
+2010,Galicia,Hombres,media,22626.21
+2010,Galicia,Hombres,mediana,18574.49
+2010,Galicia,Mujeres,cuartil_25,10755.09
+2010,Galicia,Mujeres,cuartil_75,21709.52
+2010,Galicia,Mujeres,media,17691.11
+2010,Galicia,Mujeres,mediana,14992.42
+2010,Illes Balears,Hombres,cuartil_25,15292.65
+2010,Illes Balears,Hombres,cuartil_75,27463.27
+2010,Illes Balears,Hombres,media,23213.04
+2010,Illes Balears,Hombres,mediana,19609.49
+2010,Illes Balears,Mujeres,cuartil_25,13133.39
+2010,Illes Balears,Mujeres,cuartil_75,24034.08
+2010,Illes Balears,Mujeres,media,19812.19
+2010,Illes Balears,Mujeres,mediana,17240.49
+2010,La Rioja,Hombres,cuartil_25,16206.31
+2010,La Rioja,Hombres,cuartil_75,27084.72
+2010,La Rioja,Hombres,media,23641.44
+2010,La Rioja,Hombres,mediana,20413.18
+2010,La Rioja,Mujeres,cuartil_25,10950.0
+2010,La Rioja,Mujeres,cuartil_75,22202.6
+2010,La Rioja,Mujeres,media,18131.05
+2010,La Rioja,Mujeres,mediana,15653.58
+2010,Navarra,Hombres,cuartil_25,18593.62
+2010,Navarra,Hombres,cuartil_75,32534.65
+2010,Navarra,Hombres,media,26982.49
+2010,Navarra,Hombres,mediana,24699.19
+2010,Navarra,Mujeres,cuartil_25,12350.65
+2010,Navarra,Mujeres,cuartil_75,25260.11
+2010,Navarra,Mujeres,media,19927.15
+2010,Navarra,Mujeres,mediana,18188.13
+2010,País Vasco,Hombres,cuartil_25,19553.56
+2010,País Vasco,Hombres,cuartil_75,36870.47
+2010,País Vasco,Hombres,media,29708.66
+2010,País Vasco,Hombres,mediana,27126.19
+2010,País Vasco,Mujeres,cuartil_25,13001.53
+2010,País Vasco,Mujeres,cuartil_75,30016.19
+2010,País Vasco,Mujeres,media,22706.1
+2010,País Vasco,Mujeres,mediana,19447.42
+2010,Región de Murcia,Hombres,cuartil_25,14977.48
+2010,Región de Murcia,Hombres,cuartil_75,27926.66
+2010,Región de Murcia,Hombres,media,23482.48
+2010,Región de Murcia,Hombres,mediana,19343.5
+2010,Región de Murcia,Mujeres,cuartil_25,10212.36
+2010,Región de Murcia,Mujeres,cuartil_75,21813.52
+2010,Región de Murcia,Mujeres,media,17838.28
+2010,Región de Murcia,Mujeres,mediana,14562.5
+2011,Andalucía,Hombres,cuartil_25,14839.16
+2011,Andalucía,Hombres,cuartil_75,29326.05
+2011,Andalucía,Hombres,media,23815.22
+2011,Andalucía,Hombres,mediana,19772.01
+2011,Andalucía,Mujeres,cuartil_25,9858.12
+2011,Andalucía,Mujeres,cuartil_75,23973.22
+2011,Andalucía,Mujeres,media,18389.21
+2011,Andalucía,Mujeres,mediana,15578.41
+2011,Aragón,Hombres,cuartil_25,16616.19
+2011,Aragón,Hombres,cuartil_75,30535.09
+2011,Aragón,Hombres,media,25258.68
+2011,Aragón,Hombres,mediana,22542.61
+2011,Aragón,Mujeres,cuartil_25,11502.38
+2011,Aragón,Mujeres,cuartil_75,23769.33
+2011,Aragón,Mujeres,media,18831.38
+2011,Aragón,Mujeres,mediana,16206.05
+2011,Asturias,Hombres,cuartil_25,16795.11
+2011,Asturias,Hombres,cuartil_75,31127.8
+2011,Asturias,Hombres,media,25346.39
+2011,Asturias,Hombres,mediana,22029.51
+2011,Asturias,Mujeres,cuartil_25,11635.41
+2011,Asturias,Mujeres,cuartil_75,23333.16
+2011,Asturias,Mujeres,media,18721.59
+2011,Asturias,Mujeres,mediana,15478.73
+2011,Canarias,Hombres,cuartil_25,13123.3
+2011,Canarias,Hombres,cuartil_75,24850.91
+2011,Canarias,Hombres,media,21090.86
+2011,Canarias,Hombres,mediana,17775.63
+2011,Canarias,Mujeres,cuartil_25,10433.7
+2011,Canarias,Mujeres,cuartil_75,22485.06
+2011,Canarias,Mujeres,media,17824.94
+2011,Canarias,Mujeres,mediana,14889.88
+2011,Cantabria,Hombres,cuartil_25,15623.16
+2011,Cantabria,Hombres,cuartil_75,28691.5
+2011,Cantabria,Hombres,media,23793.64
+2011,Cantabria,Hombres,mediana,20318.96
+2011,Cantabria,Mujeres,cuartil_25,10672.94
+2011,Cantabria,Mujeres,cuartil_75,22160.81
+2011,Cantabria,Mujeres,media,17606.84
+2011,Cantabria,Mujeres,mediana,14912.6
+2011,Castilla y León,Hombres,cuartil_25,15343.78
+2011,Castilla y León,Hombres,cuartil_75,28520.08
+2011,Castilla y León,Hombres,media,23482.58
+2011,Castilla y León,Hombres,mediana,19891.88
+2011,Castilla y León,Mujeres,cuartil_25,10688.79
+2011,Castilla y León,Mujeres,cuartil_75,23222.14
+2011,Castilla y León,Mujeres,media,18193.91
+2011,Castilla y León,Mujeres,mediana,15805.06
+2011,Castilla-La Mancha,Hombres,cuartil_25,15319.59
+2011,Castilla-La Mancha,Hombres,cuartil_75,26562.59
+2011,Castilla-La Mancha,Hombres,media,22771.53
+2011,Castilla-La Mancha,Hombres,mediana,19145.12
+2011,Castilla-La Mancha,Mujeres,cuartil_25,10865.51
+2011,Castilla-La Mancha,Mujeres,cuartil_75,22729.09
+2011,Castilla-La Mancha,Mujeres,media,18001.99
+2011,Castilla-La Mancha,Mujeres,mediana,16092.7
+2011,Cataluña,Hombres,cuartil_25,17521.2
+2011,Cataluña,Hombres,cuartil_75,34839.68
+2011,Cataluña,Hombres,media,28025.61
+2011,Cataluña,Hombres,mediana,24093.65
+2011,Cataluña,Mujeres,cuartil_25,12307.46
+2011,Cataluña,Mujeres,cuartil_75,26333.29
+2011,Cataluña,Mujeres,media,20799.94
+2011,Cataluña,Mujeres,mediana,18209.1
+2011,Comunidad de Madrid,Hombres,cuartil_25,16284.24
+2011,Comunidad de Madrid,Hombres,cuartil_75,37146.25
+2011,Comunidad de Madrid,Hombres,media,28896.67
+2011,Comunidad de Madrid,Hombres,mediana,23755.2
+2011,Comunidad de Madrid,Mujeres,cuartil_25,12542.34
+2011,Comunidad de Madrid,Mujeres,cuartil_75,28736.66
+2011,Comunidad de Madrid,Mujeres,media,22585.38
+2011,Comunidad de Madrid,Mujeres,mediana,18448.38
+2011,Comunitat Valenciana,Hombres,cuartil_25,15532.59
+2011,Comunitat Valenciana,Hombres,cuartil_75,29000.58
+2011,Comunitat Valenciana,Hombres,media,24171.87
+2011,Comunitat Valenciana,Hombres,mediana,20044.29
+2011,Comunitat Valenciana,Mujeres,cuartil_25,10367.36
+2011,Comunitat Valenciana,Mujeres,cuartil_75,22872.88
+2011,Comunitat Valenciana,Mujeres,media,18052.49
+2011,Comunitat Valenciana,Mujeres,mediana,15853.69
+2011,Extremadura,Hombres,cuartil_25,14052.18
+2011,Extremadura,Hombres,cuartil_75,25162.3
+2011,Extremadura,Hombres,media,21318.32
+2011,Extremadura,Hombres,mediana,17606.86
+2011,Extremadura,Mujeres,cuartil_25,10267.74
+2011,Extremadura,Mujeres,cuartil_75,22921.81
+2011,Extremadura,Mujeres,media,18060.8
+2011,Extremadura,Mujeres,mediana,15212.82
+2011,Galicia,Hombres,cuartil_25,14979.71
+2011,Galicia,Hombres,cuartil_75,25901.53
+2011,Galicia,Hombres,media,22381.85
+2011,Galicia,Hombres,mediana,18251.71
+2011,Galicia,Mujeres,cuartil_25,10372.49
+2011,Galicia,Mujeres,cuartil_75,21313.71
+2011,Galicia,Mujeres,media,17291.96
+2011,Galicia,Mujeres,mediana,14826.52
+2011,Illes Balears,Hombres,cuartil_25,15082.52
+2011,Illes Balears,Hombres,cuartil_75,27597.85
+2011,Illes Balears,Hombres,media,23188.8
+2011,Illes Balears,Hombres,mediana,19921.2
+2011,Illes Balears,Mujeres,cuartil_25,13029.71
+2011,Illes Balears,Mujeres,cuartil_75,23176.41
+2011,Illes Balears,Mujeres,media,19377.39
+2011,Illes Balears,Mujeres,mediana,17358.36
+2011,La Rioja,Hombres,cuartil_25,16217.0
+2011,La Rioja,Hombres,cuartil_75,27453.24
+2011,La Rioja,Hombres,media,23512.09
+2011,La Rioja,Hombres,mediana,20595.07
+2011,La Rioja,Mujeres,cuartil_25,10973.09
+2011,La Rioja,Mujeres,cuartil_75,23266.58
+2011,La Rioja,Mujeres,media,18328.41
+2011,La Rioja,Mujeres,mediana,15288.72
+2011,Navarra,Hombres,cuartil_25,19732.6
+2011,Navarra,Hombres,cuartil_75,34223.45
+2011,Navarra,Hombres,media,27834.48
+2011,Navarra,Hombres,mediana,25869.34
+2011,Navarra,Mujeres,cuartil_25,12125.75
+2011,Navarra,Mujeres,cuartil_75,25110.96
+2011,Navarra,Mujeres,media,19977.24
+2011,Navarra,Mujeres,mediana,18480.46
+2011,País Vasco,Hombres,cuartil_25,19679.7
+2011,País Vasco,Hombres,cuartil_75,37241.01
+2011,País Vasco,Hombres,media,29492.66
+2011,País Vasco,Hombres,mediana,27488.7
+2011,País Vasco,Mujeres,cuartil_25,13165.26
+2011,País Vasco,Mujeres,cuartil_75,30201.9
+2011,País Vasco,Mujeres,media,22449.59
+2011,País Vasco,Mujeres,mediana,19707.94
+2011,Región de Murcia,Hombres,cuartil_25,14720.77
+2011,Región de Murcia,Hombres,cuartil_75,28056.39
+2011,Región de Murcia,Hombres,media,23460.47
+2011,Región de Murcia,Hombres,mediana,19155.1
+2011,Región de Murcia,Mujeres,cuartil_25,10189.79
+2011,Región de Murcia,Mujeres,cuartil_75,22910.49
+2011,Región de Murcia,Mujeres,media,18053.61
+2011,Región de Murcia,Mujeres,mediana,15296.02
+2012,Andalucía,Hombres,cuartil_25,14833.65
+2012,Andalucía,Hombres,cuartil_75,28777.49
+2012,Andalucía,Hombres,media,23592.08
+2012,Andalucía,Hombres,mediana,19733.29
+2012,Andalucía,Mujeres,cuartil_25,9926.27
+2012,Andalucía,Mujeres,cuartil_75,22931.4
+2012,Andalucía,Mujeres,media,17828.44
+2012,Andalucía,Mujeres,mediana,15480.07
+2012,Aragón,Hombres,cuartil_25,16765.53
+2012,Aragón,Hombres,cuartil_75,30744.34
+2012,Aragón,Hombres,media,25766.27
+2012,Aragón,Hombres,mediana,22231.84
+2012,Aragón,Mujeres,cuartil_25,10549.6
+2012,Aragón,Mujeres,cuartil_75,22199.5
+2012,Aragón,Mujeres,media,18042.28
+2012,Aragón,Mujeres,mediana,15734.04
+2012,Asturias,Hombres,cuartil_25,16392.96
+2012,Asturias,Hombres,cuartil_75,31345.36
+2012,Asturias,Hombres,media,25048.82
+2012,Asturias,Hombres,mediana,21732.37
+2012,Asturias,Mujeres,cuartil_25,10689.15
+2012,Asturias,Mujeres,cuartil_75,21980.12
+2012,Asturias,Mujeres,media,18026.01
+2012,Asturias,Mujeres,mediana,15474.56
+2012,Canarias,Hombres,cuartil_25,13122.31
+2012,Canarias,Hombres,cuartil_75,25086.57
+2012,Canarias,Hombres,media,21089.85
+2012,Canarias,Hombres,mediana,17941.68
+2012,Canarias,Mujeres,cuartil_25,10039.97
+2012,Canarias,Mujeres,cuartil_75,21952.88
+2012,Canarias,Mujeres,media,17498.71
+2012,Canarias,Mujeres,mediana,14680.25
+2012,Cantabria,Hombres,cuartil_25,15300.0
+2012,Cantabria,Hombres,cuartil_75,27716.35
+2012,Cantabria,Hombres,media,23309.9
+2012,Cantabria,Hombres,mediana,19685.54
+2012,Cantabria,Mujeres,cuartil_25,10015.6
+2012,Cantabria,Mujeres,cuartil_75,20123.96
+2012,Cantabria,Mujeres,media,16771.99
+2012,Cantabria,Mujeres,mediana,14449.44
+2012,Castilla y León,Hombres,cuartil_25,15225.36
+2012,Castilla y León,Hombres,cuartil_75,28604.84
+2012,Castilla y León,Hombres,media,23473.82
+2012,Castilla y León,Hombres,mediana,19680.54
+2012,Castilla y León,Mujeres,cuartil_25,10185.0
+2012,Castilla y León,Mujeres,cuartil_75,22631.56
+2012,Castilla y León,Mujeres,media,17552.07
+2012,Castilla y León,Mujeres,mediana,15275.45
+2012,Castilla-La Mancha,Hombres,cuartil_25,15036.25
+2012,Castilla-La Mancha,Hombres,cuartil_75,26771.49
+2012,Castilla-La Mancha,Hombres,media,22810.39
+2012,Castilla-La Mancha,Hombres,mediana,18780.36
+2012,Castilla-La Mancha,Mujeres,cuartil_25,10004.38
+2012,Castilla-La Mancha,Mujeres,cuartil_75,21632.21
+2012,Castilla-La Mancha,Mujeres,media,17527.3
+2012,Castilla-La Mancha,Mujeres,mediana,14956.86
+2012,Cataluña,Hombres,cuartil_25,17100.34
+2012,Cataluña,Hombres,cuartil_75,34612.4
+2012,Cataluña,Hombres,media,27836.4
+2012,Cataluña,Hombres,mediana,24001.24
+2012,Cataluña,Mujeres,cuartil_25,12321.69
+2012,Cataluña,Mujeres,cuartil_75,26388.98
+2012,Cataluña,Mujeres,media,20931.07
+2012,Cataluña,Mujeres,mediana,18049.47
+2012,Comunidad de Madrid,Hombres,cuartil_25,16338.12
+2012,Comunidad de Madrid,Hombres,cuartil_75,37234.04
+2012,Comunidad de Madrid,Hombres,media,29116.2
+2012,Comunidad de Madrid,Hombres,mediana,24178.37
+2012,Comunidad de Madrid,Mujeres,cuartil_25,12569.16
+2012,Comunidad de Madrid,Mujeres,cuartil_75,29026.47
+2012,Comunidad de Madrid,Mujeres,media,22841.15
+2012,Comunidad de Madrid,Mujeres,mediana,18595.78
+2012,Comunitat Valenciana,Hombres,cuartil_25,15429.09
+2012,Comunitat Valenciana,Hombres,cuartil_75,29325.02
+2012,Comunitat Valenciana,Hombres,media,24289.23
+2012,Comunitat Valenciana,Hombres,mediana,20211.14
+2012,Comunitat Valenciana,Mujeres,cuartil_25,10249.98
+2012,Comunitat Valenciana,Mujeres,cuartil_75,22471.48
+2012,Comunitat Valenciana,Mujeres,media,17870.88
+2012,Comunitat Valenciana,Mujeres,mediana,15602.67
+2012,Extremadura,Hombres,cuartil_25,14352.12
+2012,Extremadura,Hombres,cuartil_75,24790.12
+2012,Extremadura,Hombres,media,21585.3
+2012,Extremadura,Hombres,mediana,17477.31
+2012,Extremadura,Mujeres,cuartil_25,9744.46
+2012,Extremadura,Mujeres,cuartil_75,21082.02
+2012,Extremadura,Mujeres,media,17401.9
+2012,Extremadura,Mujeres,mediana,14758.54
+2012,Galicia,Hombres,cuartil_25,14907.87
+2012,Galicia,Hombres,cuartil_75,25573.85
+2012,Galicia,Hombres,media,22059.69
+2012,Galicia,Hombres,mediana,18257.96
+2012,Galicia,Mujeres,cuartil_25,10731.64
+2012,Galicia,Mujeres,cuartil_75,20103.78
+2012,Galicia,Mujeres,media,16727.15
+2012,Galicia,Mujeres,mediana,14629.68
+2012,Illes Balears,Hombres,cuartil_25,15083.38
+2012,Illes Balears,Hombres,cuartil_75,27222.86
+2012,Illes Balears,Hombres,media,22859.04
+2012,Illes Balears,Hombres,mediana,19510.2
+2012,Illes Balears,Mujeres,cuartil_25,12900.79
+2012,Illes Balears,Mujeres,cuartil_75,22465.23
+2012,Illes Balears,Mujeres,media,19022.24
+2012,Illes Balears,Mujeres,mediana,16999.82
+2012,La Rioja,Hombres,cuartil_25,15387.11
+2012,La Rioja,Hombres,cuartil_75,27360.1
+2012,La Rioja,Hombres,media,23097.08
+2012,La Rioja,Hombres,mediana,20229.41
+2012,La Rioja,Mujeres,cuartil_25,10313.51
+2012,La Rioja,Mujeres,cuartil_75,22068.6
+2012,La Rioja,Mujeres,media,17486.66
+2012,La Rioja,Mujeres,mediana,15069.41
+2012,Navarra,Hombres,cuartil_25,19226.93
+2012,Navarra,Hombres,cuartil_75,34224.48
+2012,Navarra,Hombres,media,27632.8
+2012,Navarra,Hombres,mediana,25401.59
+2012,Navarra,Mujeres,cuartil_25,11623.38
+2012,Navarra,Mujeres,cuartil_75,24548.3
+2012,Navarra,Mujeres,media,19462.13
+2012,Navarra,Mujeres,mediana,17807.06
+2012,País Vasco,Hombres,cuartil_25,19876.94
+2012,País Vasco,Hombres,cuartil_75,37457.45
+2012,País Vasco,Hombres,media,30084.89
+2012,País Vasco,Hombres,mediana,27896.6
+2012,País Vasco,Mujeres,cuartil_25,12514.09
+2012,País Vasco,Mujeres,cuartil_75,29591.0
+2012,País Vasco,Mujeres,media,22313.41
+2012,País Vasco,Mujeres,mediana,19640.0
+2012,Región de Murcia,Hombres,cuartil_25,14909.5
+2012,Región de Murcia,Hombres,cuartil_75,27938.72
+2012,Región de Murcia,Hombres,media,23487.03
+2012,Región de Murcia,Hombres,mediana,19258.53
+2012,Región de Murcia,Mujeres,cuartil_25,9589.28
+2012,Región de Murcia,Mujeres,cuartil_75,22360.07
+2012,Región de Murcia,Mujeres,media,17457.52
+2012,Región de Murcia,Mujeres,mediana,14781.92
+2013,Andalucía,Hombres,cuartil_25,14737.2
+2013,Andalucía,Hombres,cuartil_75,29387.21
+2013,Andalucía,Hombres,media,23565.36
+2013,Andalucía,Hombres,mediana,19750.02
+2013,Andalucía,Mujeres,cuartil_25,9184.41
+2013,Andalucía,Mujeres,cuartil_75,23188.65
+2013,Andalucía,Mujeres,media,17690.19
+2013,Andalucía,Mujeres,mediana,15029.15
+2013,Aragón,Hombres,cuartil_25,15883.32
+2013,Aragón,Hombres,cuartil_75,31144.04
+2013,Aragón,Hombres,media,25128.91
+2013,Aragón,Hombres,mediana,22275.4
+2013,Aragón,Mujeres,cuartil_25,10941.54
+2013,Aragón,Mujeres,cuartil_75,23165.29
+2013,Aragón,Mujeres,media,18701.61
+2013,Aragón,Mujeres,mediana,16160.06
+2013,Asturias,Hombres,cuartil_25,15770.78
+2013,Asturias,Hombres,cuartil_75,32407.39
+2013,Asturias,Hombres,media,25500.04
+2013,Asturias,Hombres,mediana,22383.08
+2013,Asturias,Mujeres,cuartil_25,10196.44
+2013,Asturias,Mujeres,cuartil_75,23195.1
+2013,Asturias,Mujeres,media,18455.34
+2013,Asturias,Mujeres,mediana,15431.98
+2013,Canarias,Hombres,cuartil_25,12880.62
+2013,Canarias,Hombres,cuartil_75,24267.24
+2013,Canarias,Hombres,media,20678.43
+2013,Canarias,Hombres,mediana,17603.76
+2013,Canarias,Mujeres,cuartil_25,9658.85
+2013,Canarias,Mujeres,cuartil_75,21999.98
+2013,Canarias,Mujeres,media,17619.86
+2013,Canarias,Mujeres,mediana,14859.15
+2013,Cantabria,Hombres,cuartil_25,15461.31
+2013,Cantabria,Hombres,cuartil_75,29100.86
+2013,Cantabria,Hombres,media,23224.6
+2013,Cantabria,Hombres,mediana,20001.84
+2013,Cantabria,Mujeres,cuartil_25,10177.32
+2013,Cantabria,Mujeres,cuartil_75,21069.0
+2013,Cantabria,Mujeres,media,16542.34
+2013,Cantabria,Mujeres,mediana,14575.17
+2013,Castilla y León,Hombres,cuartil_25,15099.09
+2013,Castilla y León,Hombres,cuartil_75,28688.85
+2013,Castilla y León,Hombres,media,23379.0
+2013,Castilla y León,Hombres,mediana,19873.03
+2013,Castilla y León,Mujeres,cuartil_25,9825.12
+2013,Castilla y León,Mujeres,cuartil_75,22461.94
+2013,Castilla y León,Mujeres,media,17429.41
+2013,Castilla y León,Mujeres,mediana,15087.95
+2013,Castilla-La Mancha,Hombres,cuartil_25,15229.86
+2013,Castilla-La Mancha,Hombres,cuartil_75,26999.96
+2013,Castilla-La Mancha,Hombres,media,23316.59
+2013,Castilla-La Mancha,Hombres,mediana,19200.0
+2013,Castilla-La Mancha,Mujeres,cuartil_25,9962.03
+2013,Castilla-La Mancha,Mujeres,cuartil_75,22000.48
+2013,Castilla-La Mancha,Mujeres,media,17481.02
+2013,Castilla-La Mancha,Mujeres,mediana,15206.58
+2013,Cataluña,Hombres,cuartil_25,16696.72
+2013,Cataluña,Hombres,cuartil_75,34989.82
+2013,Cataluña,Hombres,media,27684.3
+2013,Cataluña,Hombres,mediana,23922.5
+2013,Cataluña,Mujeres,cuartil_25,11897.88
+2013,Cataluña,Mujeres,cuartil_75,26311.19
+2013,Cataluña,Mujeres,media,20740.55
+2013,Cataluña,Mujeres,mediana,17962.12
+2013,Comunidad de Madrid,Hombres,cuartil_25,16003.54
+2013,Comunidad de Madrid,Hombres,cuartil_75,37329.51
+2013,Comunidad de Madrid,Hombres,media,29224.3
+2013,Comunidad de Madrid,Hombres,mediana,24000.06
+2013,Comunidad de Madrid,Mujeres,cuartil_25,12380.43
+2013,Comunidad de Madrid,Mujeres,cuartil_75,29358.58
+2013,Comunidad de Madrid,Mujeres,media,22959.28
+2013,Comunidad de Madrid,Mujeres,mediana,18587.64
+2013,Comunitat Valenciana,Hombres,cuartil_25,15280.2
+2013,Comunitat Valenciana,Hombres,cuartil_75,28551.03
+2013,Comunitat Valenciana,Hombres,media,23651.4
+2013,Comunitat Valenciana,Hombres,mediana,19661.29
+2013,Comunitat Valenciana,Mujeres,cuartil_25,9823.37
+2013,Comunitat Valenciana,Mujeres,cuartil_75,22892.3
+2013,Comunitat Valenciana,Mujeres,media,17918.36
+2013,Comunitat Valenciana,Mujeres,mediana,15340.3
+2013,Extremadura,Hombres,cuartil_25,14036.41
+2013,Extremadura,Hombres,cuartil_75,26133.32
+2013,Extremadura,Hombres,media,21780.9
+2013,Extremadura,Hombres,mediana,17656.86
+2013,Extremadura,Mujeres,cuartil_25,7854.55
+2013,Extremadura,Mujeres,cuartil_75,21284.56
+2013,Extremadura,Mujeres,media,16304.55
+2013,Extremadura,Mujeres,mediana,14377.08
+2013,Galicia,Hombres,cuartil_25,15370.94
+2013,Galicia,Hombres,cuartil_75,26332.74
+2013,Galicia,Hombres,media,22522.55
+2013,Galicia,Hombres,mediana,19081.44
+2013,Galicia,Mujeres,cuartil_25,10712.48
+2013,Galicia,Mujeres,cuartil_75,21077.55
+2013,Galicia,Mujeres,media,17258.21
+2013,Galicia,Mujeres,mediana,15005.56
+2013,Illes Balears,Hombres,cuartil_25,15100.5
+2013,Illes Balears,Hombres,cuartil_75,26980.65
+2013,Illes Balears,Hombres,media,22584.78
+2013,Illes Balears,Hombres,mediana,19295.0
+2013,Illes Balears,Mujeres,cuartil_25,12340.53
+2013,Illes Balears,Mujeres,cuartil_75,22683.47
+2013,Illes Balears,Mujeres,media,18998.37
+2013,Illes Balears,Mujeres,mediana,16887.8
+2013,La Rioja,Hombres,cuartil_25,15063.43
+2013,La Rioja,Hombres,cuartil_75,27398.02
+2013,La Rioja,Hombres,media,23641.12
+2013,La Rioja,Hombres,mediana,19887.99
+2013,La Rioja,Mujeres,cuartil_25,10751.62
+2013,La Rioja,Mujeres,cuartil_75,21258.98
+2013,La Rioja,Mujeres,media,17435.56
+2013,La Rioja,Mujeres,mediana,15319.33
+2013,Navarra,Hombres,cuartil_25,18769.29
+2013,Navarra,Hombres,cuartil_75,34505.92
+2013,Navarra,Hombres,media,27848.15
+2013,Navarra,Hombres,mediana,25734.01
+2013,Navarra,Mujeres,cuartil_25,11164.12
+2013,Navarra,Mujeres,cuartil_75,24648.25
+2013,Navarra,Mujeres,media,19364.43
+2013,Navarra,Mujeres,mediana,17667.6
+2013,País Vasco,Hombres,cuartil_25,19256.31
+2013,País Vasco,Hombres,cuartil_75,38470.0
+2013,País Vasco,Hombres,media,30312.55
+2013,País Vasco,Hombres,mediana,27412.35
+2013,País Vasco,Mujeres,cuartil_25,12729.73
+2013,País Vasco,Mujeres,cuartil_75,29749.52
+2013,País Vasco,Mujeres,media,22687.39
+2013,País Vasco,Mujeres,mediana,19576.9
+2013,Región de Murcia,Hombres,cuartil_25,14757.89
+2013,Región de Murcia,Hombres,cuartil_75,27694.77
+2013,Región de Murcia,Hombres,media,23428.23
+2013,Región de Murcia,Hombres,mediana,19430.9
+2013,Región de Murcia,Mujeres,cuartil_25,9034.0
+2013,Región de Murcia,Mujeres,cuartil_75,21962.41
+2013,Región de Murcia,Mujeres,media,16957.29
+2013,Región de Murcia,Mujeres,mediana,14055.89
+2014,Andalucía,Hombres,cuartil_25,15002.84
+2014,Andalucía,Hombres,cuartil_75,28752.86
+2014,Andalucía,Hombres,media,23541.32
+2014,Andalucía,Hombres,mediana,19774.52
+2014,Andalucía,Mujeres,cuartil_25,9096.52
+2014,Andalucía,Mujeres,cuartil_75,23211.41
+2014,Andalucía,Mujeres,media,17576.13
+2014,Andalucía,Mujeres,mediana,15044.26
+2014,Aragón,Hombres,cuartil_25,16721.02
+2014,Aragón,Hombres,cuartil_75,30385.38
+2014,Aragón,Hombres,media,25118.61
+2014,Aragón,Hombres,mediana,22364.62
+2014,Aragón,Mujeres,cuartil_25,11000.39
+2014,Aragón,Mujeres,cuartil_75,23716.65
+2014,Aragón,Mujeres,media,18764.63
+2014,Aragón,Mujeres,mediana,16691.51
+2014,Asturias,Hombres,cuartil_25,16181.76
+2014,Asturias,Hombres,cuartil_75,32512.93
+2014,Asturias,Hombres,media,25322.01
+2014,Asturias,Hombres,mediana,22433.47
+2014,Asturias,Mujeres,cuartil_25,10754.7
+2014,Asturias,Mujeres,cuartil_75,23331.74
+2014,Asturias,Mujeres,media,18400.68
+2014,Asturias,Mujeres,mediana,15954.87
+2014,Canarias,Hombres,cuartil_25,12919.86
+2014,Canarias,Hombres,cuartil_75,24723.03
+2014,Canarias,Hombres,media,20641.49
+2014,Canarias,Hombres,mediana,17254.37
+2014,Canarias,Mujeres,cuartil_25,10559.02
+2014,Canarias,Mujeres,cuartil_75,22042.6
+2014,Canarias,Mujeres,media,18201.48
+2014,Canarias,Mujeres,mediana,15355.31
+2014,Cantabria,Hombres,cuartil_25,16262.4
+2014,Cantabria,Hombres,cuartil_75,31157.85
+2014,Cantabria,Hombres,media,24685.21
+2014,Cantabria,Hombres,mediana,21015.31
+2014,Cantabria,Mujeres,cuartil_25,9768.74
+2014,Cantabria,Mujeres,cuartil_75,22529.78
+2014,Cantabria,Mujeres,media,17668.55
+2014,Cantabria,Mujeres,mediana,15060.5
+2014,Castilla y León,Hombres,cuartil_25,15051.88
+2014,Castilla y León,Hombres,cuartil_75,27468.29
+2014,Castilla y León,Hombres,media,22904.8
+2014,Castilla y León,Hombres,mediana,19479.68
+2014,Castilla y León,Mujeres,cuartil_25,9690.44
+2014,Castilla y León,Mujeres,cuartil_75,23002.6
+2014,Castilla y León,Mujeres,media,17682.88
+2014,Castilla y León,Mujeres,mediana,15269.56
+2014,Castilla-La Mancha,Hombres,cuartil_25,15390.93
+2014,Castilla-La Mancha,Hombres,cuartil_75,26908.12
+2014,Castilla-La Mancha,Hombres,media,22719.35
+2014,Castilla-La Mancha,Hombres,mediana,19137.2
+2014,Castilla-La Mancha,Mujeres,cuartil_25,10095.37
+2014,Castilla-La Mancha,Mujeres,cuartil_75,24006.32
+2014,Castilla-La Mancha,Mujeres,media,18157.02
+2014,Castilla-La Mancha,Mujeres,mediana,15860.4
+2014,Cataluña,Hombres,cuartil_25,16984.0
+2014,Cataluña,Hombres,cuartil_75,33817.99
+2014,Cataluña,Hombres,media,27447.71
+2014,Cataluña,Hombres,mediana,23715.3
+2014,Cataluña,Mujeres,cuartil_25,11593.37
+2014,Cataluña,Mujeres,cuartil_75,25959.58
+2014,Cataluña,Mujeres,media,20324.88
+2014,Cataluña,Mujeres,mediana,17964.44
+2014,Comunidad de Madrid,Hombres,cuartil_25,16169.88
+2014,Comunidad de Madrid,Hombres,cuartil_75,37789.86
+2014,Comunidad de Madrid,Hombres,media,29734.23
+2014,Comunidad de Madrid,Hombres,mediana,24238.32
+2014,Comunidad de Madrid,Mujeres,cuartil_25,12661.16
+2014,Comunidad de Madrid,Mujeres,cuartil_75,30072.78
+2014,Comunidad de Madrid,Mujeres,media,23326.94
+2014,Comunidad de Madrid,Mujeres,mediana,19133.47
+2014,Comunitat Valenciana,Hombres,cuartil_25,15090.93
+2014,Comunitat Valenciana,Hombres,cuartil_75,28206.74
+2014,Comunitat Valenciana,Hombres,media,23479.71
+2014,Comunitat Valenciana,Hombres,mediana,20074.56
+2014,Comunitat Valenciana,Mujeres,cuartil_25,9658.32
+2014,Comunitat Valenciana,Mujeres,cuartil_75,22116.24
+2014,Comunitat Valenciana,Mujeres,media,17511.66
+2014,Comunitat Valenciana,Mujeres,mediana,15322.63
+2014,Extremadura,Hombres,cuartil_25,13476.09
+2014,Extremadura,Hombres,cuartil_75,24431.35
+2014,Extremadura,Hombres,media,20829.72
+2014,Extremadura,Hombres,mediana,17337.46
+2014,Extremadura,Mujeres,cuartil_25,8972.46
+2014,Extremadura,Mujeres,cuartil_75,22755.85
+2014,Extremadura,Mujeres,media,17413.85
+2014,Extremadura,Mujeres,mediana,14727.85
+2014,Galicia,Hombres,cuartil_25,15213.71
+2014,Galicia,Hombres,cuartil_75,26779.27
+2014,Galicia,Hombres,media,22505.05
+2014,Galicia,Hombres,mediana,19060.07
+2014,Galicia,Mujeres,cuartil_25,10547.4
+2014,Galicia,Mujeres,cuartil_75,22151.79
+2014,Galicia,Mujeres,media,17797.03
+2014,Galicia,Mujeres,mediana,15130.99
+2014,Illes Balears,Hombres,cuartil_25,16179.71
+2014,Illes Balears,Hombres,cuartil_75,27721.44
+2014,Illes Balears,Hombres,media,23770.56
+2014,Illes Balears,Hombres,mediana,20330.19
+2014,Illes Balears,Mujeres,cuartil_25,12325.0
+2014,Illes Balears,Mujeres,cuartil_75,22985.52
+2014,Illes Balears,Mujeres,media,19008.38
+2014,Illes Balears,Mujeres,mediana,17133.18
+2014,La Rioja,Hombres,cuartil_25,16614.85
+2014,La Rioja,Hombres,cuartil_75,30343.17
+2014,La Rioja,Hombres,media,24814.25
+2014,La Rioja,Hombres,mediana,21230.26
+2014,La Rioja,Mujeres,cuartil_25,11314.27
+2014,La Rioja,Mujeres,cuartil_75,24053.44
+2014,La Rioja,Mujeres,media,18959.85
+2014,La Rioja,Mujeres,mediana,16134.6
+2014,Navarra,Hombres,cuartil_25,19989.76
+2014,Navarra,Hombres,cuartil_75,34919.77
+2014,Navarra,Hombres,media,28659.74
+2014,Navarra,Hombres,mediana,25900.32
+2014,Navarra,Mujeres,cuartil_25,11954.11
+2014,Navarra,Mujeres,cuartil_75,26052.18
+2014,Navarra,Mujeres,media,20163.1
+2014,Navarra,Mujeres,mediana,18047.26
+2014,País Vasco,Hombres,cuartil_25,20349.13
+2014,País Vasco,Hombres,cuartil_75,39559.91
+2014,País Vasco,Hombres,media,31271.0
+2014,País Vasco,Hombres,mediana,28799.94
+2014,País Vasco,Mujeres,cuartil_25,12577.12
+2014,País Vasco,Mujeres,cuartil_75,32371.18
+2014,País Vasco,Mujeres,media,23781.55
+2014,País Vasco,Mujeres,mediana,21358.92
+2014,Región de Murcia,Hombres,cuartil_25,14757.0
+2014,Región de Murcia,Hombres,cuartil_75,29252.76
+2014,Región de Murcia,Hombres,media,23419.03
+2014,Región de Murcia,Hombres,mediana,19407.09
+2014,Región de Murcia,Mujeres,cuartil_25,9643.97
+2014,Región de Murcia,Mujeres,cuartil_75,22649.38
+2014,Región de Murcia,Mujeres,media,17500.99
+2014,Región de Murcia,Mujeres,mediana,14269.14
+2015,Andalucía,Hombres,cuartil_25,15183.2
+2015,Andalucía,Hombres,cuartil_75,30000.12
+2015,Andalucía,Hombres,media,24200.2
+2015,Andalucía,Hombres,mediana,20109.36
+2015,Andalucía,Mujeres,cuartil_25,9714.12
+2015,Andalucía,Mujeres,cuartil_75,23679.6
+2015,Andalucía,Mujeres,media,18340.96
+2015,Andalucía,Mujeres,mediana,15295.34
+2015,Aragón,Hombres,cuartil_25,16666.19
+2015,Aragón,Hombres,cuartil_75,30821.58
+2015,Aragón,Hombres,media,25555.56
+2015,Aragón,Hombres,mediana,22452.41
+2015,Aragón,Mujeres,cuartil_25,10444.87
+2015,Aragón,Mujeres,cuartil_75,24153.85
+2015,Aragón,Mujeres,media,18950.17
+2015,Aragón,Mujeres,mediana,16324.07
+2015,Asturias,Hombres,cuartil_25,16980.66
+2015,Asturias,Hombres,cuartil_75,34432.28
+2015,Asturias,Hombres,media,26514.68
+2015,Asturias,Hombres,mediana,23248.86
+2015,Asturias,Mujeres,cuartil_25,10689.35
+2015,Asturias,Mujeres,cuartil_75,23965.28
+2015,Asturias,Mujeres,media,18925.34
+2015,Asturias,Mujeres,mediana,15594.05
+2015,Canarias,Hombres,cuartil_25,13578.97
+2015,Canarias,Hombres,cuartil_75,25292.49
+2015,Canarias,Hombres,media,21336.72
+2015,Canarias,Hombres,mediana,18042.41
+2015,Canarias,Mujeres,cuartil_25,10039.23
+2015,Canarias,Mujeres,cuartil_75,22957.35
+2015,Canarias,Mujeres,media,18279.76
+2015,Canarias,Mujeres,mediana,15389.18
+2015,Cantabria,Hombres,cuartil_25,16354.9
+2015,Cantabria,Hombres,cuartil_75,30497.66
+2015,Cantabria,Hombres,media,25259.83
+2015,Cantabria,Hombres,mediana,21468.08
+2015,Cantabria,Mujeres,cuartil_25,10632.86
+2015,Cantabria,Mujeres,cuartil_75,23529.66
+2015,Cantabria,Mujeres,media,17955.79
+2015,Cantabria,Mujeres,mediana,15456.0
+2015,Castilla y León,Hombres,cuartil_25,15929.93
+2015,Castilla y León,Hombres,cuartil_75,29338.96
+2015,Castilla y León,Hombres,media,24135.64
+2015,Castilla y León,Hombres,mediana,20548.94
+2015,Castilla y León,Mujeres,cuartil_25,10703.93
+2015,Castilla y León,Mujeres,cuartil_75,23633.69
+2015,Castilla y León,Mujeres,media,18523.74
+2015,Castilla y León,Mujeres,mediana,15806.28
+2015,Castilla-La Mancha,Hombres,cuartil_25,15232.03
+2015,Castilla-La Mancha,Hombres,cuartil_75,26995.82
+2015,Castilla-La Mancha,Hombres,media,22765.56
+2015,Castilla-La Mancha,Hombres,mediana,19305.7
+2015,Castilla-La Mancha,Mujeres,cuartil_25,9470.08
+2015,Castilla-La Mancha,Mujeres,cuartil_75,23406.5
+2015,Castilla-La Mancha,Mujeres,media,18097.55
+2015,Castilla-La Mancha,Mujeres,mediana,15566.1
+2015,Cataluña,Hombres,cuartil_25,17334.06
+2015,Cataluña,Hombres,cuartil_75,34866.72
+2015,Cataluña,Hombres,media,27514.06
+2015,Cataluña,Hombres,mediana,23738.27
+2015,Cataluña,Mujeres,cuartil_25,11824.84
+2015,Cataluña,Mujeres,cuartil_75,26996.55
+2015,Cataluña,Mujeres,media,20946.56
+2015,Cataluña,Mujeres,mediana,18088.32
+2015,Comunidad de Madrid,Hombres,cuartil_25,15999.84
+2015,Comunidad de Madrid,Hombres,cuartil_75,37020.02
+2015,Comunidad de Madrid,Hombres,media,29314.09
+2015,Comunidad de Madrid,Hombres,mediana,23478.83
+2015,Comunidad de Madrid,Mujeres,cuartil_25,12694.31
+2015,Comunidad de Madrid,Mujeres,cuartil_75,29977.47
+2015,Comunidad de Madrid,Mujeres,media,23470.06
+2015,Comunidad de Madrid,Mujeres,mediana,19145.0
+2015,Comunitat Valenciana,Hombres,cuartil_25,15648.39
+2015,Comunitat Valenciana,Hombres,cuartil_75,28738.91
+2015,Comunitat Valenciana,Hombres,media,23919.14
+2015,Comunitat Valenciana,Hombres,mediana,19980.62
+2015,Comunitat Valenciana,Mujeres,cuartil_25,9547.21
+2015,Comunitat Valenciana,Mujeres,cuartil_75,22570.16
+2015,Comunitat Valenciana,Mujeres,media,17811.38
+2015,Comunitat Valenciana,Mujeres,mediana,15283.9
+2015,Extremadura,Hombres,cuartil_25,14142.1
+2015,Extremadura,Hombres,cuartil_75,25795.44
+2015,Extremadura,Hombres,media,21813.81
+2015,Extremadura,Hombres,mediana,18150.31
+2015,Extremadura,Mujeres,cuartil_25,8837.33
+2015,Extremadura,Mujeres,cuartil_75,22608.27
+2015,Extremadura,Mujeres,media,17304.65
+2015,Extremadura,Mujeres,mediana,14602.48
+2015,Galicia,Hombres,cuartil_25,15812.2
+2015,Galicia,Hombres,cuartil_75,27688.75
+2015,Galicia,Hombres,media,23189.76
+2015,Galicia,Hombres,mediana,19646.2
+2015,Galicia,Mujeres,cuartil_25,10985.34
+2015,Galicia,Mujeres,cuartil_75,22072.65
+2015,Galicia,Mujeres,media,18093.26
+2015,Galicia,Mujeres,mediana,15430.38
+2015,Illes Balears,Hombres,cuartil_25,15852.0
+2015,Illes Balears,Hombres,cuartil_75,26872.55
+2015,Illes Balears,Hombres,media,23411.35
+2015,Illes Balears,Hombres,mediana,19994.15
+2015,Illes Balears,Mujeres,cuartil_25,12454.42
+2015,Illes Balears,Mujeres,cuartil_75,23614.44
+2015,Illes Balears,Mujeres,media,19517.28
+2015,Illes Balears,Mujeres,mediana,17370.54
+2015,La Rioja,Hombres,cuartil_25,16624.9
+2015,La Rioja,Hombres,cuartil_75,29318.58
+2015,La Rioja,Hombres,media,24532.64
+2015,La Rioja,Hombres,mediana,21344.0
+2015,La Rioja,Mujeres,cuartil_25,10796.71
+2015,La Rioja,Mujeres,cuartil_75,23686.39
+2015,La Rioja,Mujeres,media,18762.15
+2015,La Rioja,Mujeres,mediana,16342.7
+2015,Navarra,Hombres,cuartil_25,19416.95
+2015,Navarra,Hombres,cuartil_75,35331.91
+2015,Navarra,Hombres,media,28727.37
+2015,Navarra,Hombres,mediana,26137.94
+2015,Navarra,Mujeres,cuartil_25,11726.41
+2015,Navarra,Mujeres,cuartil_75,26406.06
+2015,Navarra,Mujeres,media,20563.08
+2015,Navarra,Mujeres,mediana,18597.38
+2015,País Vasco,Hombres,cuartil_25,20459.28
+2015,País Vasco,Hombres,cuartil_75,39140.08
+2015,País Vasco,Hombres,media,31088.99
+2015,País Vasco,Hombres,mediana,28529.0
+2015,País Vasco,Mujeres,cuartil_25,12844.93
+2015,País Vasco,Mujeres,cuartil_75,31624.25
+2015,País Vasco,Mujeres,media,23537.06
+2015,País Vasco,Mujeres,mediana,20504.0
+2015,Región de Murcia,Hombres,cuartil_25,15338.5
+2015,Región de Murcia,Hombres,cuartil_75,28303.12
+2015,Región de Murcia,Hombres,media,23773.09
+2015,Región de Murcia,Hombres,mediana,19485.36
+2015,Región de Murcia,Mujeres,cuartil_25,9325.93
+2015,Región de Murcia,Mujeres,cuartil_75,22602.96
+2015,Región de Murcia,Mujeres,media,17540.27
+2015,Región de Murcia,Mujeres,mediana,14294.84
+2016,Andalucía,Hombres,cuartil_25,15009.04
+2016,Andalucía,Hombres,cuartil_75,29660.56
+2016,Andalucía,Hombres,media,24026.82
+2016,Andalucía,Hombres,mediana,20168.27
+2016,Andalucía,Mujeres,cuartil_25,9826.35
+2016,Andalucía,Mujeres,cuartil_75,23822.52
+2016,Andalucía,Mujeres,media,18177.37
+2016,Andalucía,Mujeres,mediana,15203.96
+2016,Aragón,Hombres,cuartil_25,16733.12
+2016,Aragón,Hombres,cuartil_75,30722.39
+2016,Aragón,Hombres,media,25326.91
+2016,Aragón,Hombres,mediana,22380.02
+2016,Aragón,Mujeres,cuartil_25,10237.79
+2016,Aragón,Mujeres,cuartil_75,24084.48
+2016,Aragón,Mujeres,media,18766.21
+2016,Aragón,Mujeres,mediana,16411.68
+2016,Asturias,Hombres,cuartil_25,17190.14
+2016,Asturias,Hombres,cuartil_75,34001.92
+2016,Asturias,Hombres,media,27010.87
+2016,Asturias,Hombres,mediana,23437.86
+2016,Asturias,Mujeres,cuartil_25,10772.84
+2016,Asturias,Mujeres,cuartil_75,24339.88
+2016,Asturias,Mujeres,media,19077.92
+2016,Asturias,Mujeres,mediana,15912.63
+2016,Canarias,Hombres,cuartil_25,13475.72
+2016,Canarias,Hombres,cuartil_75,24744.49
+2016,Canarias,Hombres,media,21149.44
+2016,Canarias,Hombres,mediana,17736.72
+2016,Canarias,Mujeres,cuartil_25,10528.48
+2016,Canarias,Mujeres,cuartil_75,22240.03
+2016,Canarias,Mujeres,media,18211.44
+2016,Canarias,Mujeres,mediana,15780.72
+2016,Cantabria,Hombres,cuartil_25,15808.24
+2016,Cantabria,Hombres,cuartil_75,31466.18
+2016,Cantabria,Hombres,media,25210.05
+2016,Cantabria,Hombres,mediana,20692.84
+2016,Cantabria,Mujeres,cuartil_25,10567.96
+2016,Cantabria,Mujeres,cuartil_75,22639.07
+2016,Cantabria,Mujeres,media,18216.84
+2016,Cantabria,Mujeres,mediana,15414.19
+2016,Castilla y León,Hombres,cuartil_25,16057.8
+2016,Castilla y León,Hombres,cuartil_75,29689.71
+2016,Castilla y León,Hombres,media,24445.65
+2016,Castilla y León,Hombres,mediana,20596.75
+2016,Castilla y León,Mujeres,cuartil_25,10755.51
+2016,Castilla y León,Mujeres,cuartil_75,23777.45
+2016,Castilla y León,Mujeres,media,18662.42
+2016,Castilla y León,Mujeres,mediana,15916.57
+2016,Castilla-La Mancha,Hombres,cuartil_25,15291.06
+2016,Castilla-La Mancha,Hombres,cuartil_75,26871.63
+2016,Castilla-La Mancha,Hombres,media,22871.41
+2016,Castilla-La Mancha,Hombres,mediana,19380.27
+2016,Castilla-La Mancha,Mujeres,cuartil_25,9795.42
+2016,Castilla-La Mancha,Mujeres,cuartil_75,23699.63
+2016,Castilla-La Mancha,Mujeres,media,18213.71
+2016,Castilla-La Mancha,Mujeres,mediana,15670.87
+2016,Cataluña,Hombres,cuartil_25,17240.34
+2016,Cataluña,Hombres,cuartil_75,34772.08
+2016,Cataluña,Hombres,media,27572.76
+2016,Cataluña,Hombres,mediana,24050.27
+2016,Cataluña,Mujeres,cuartil_25,11795.02
+2016,Cataluña,Mujeres,cuartil_75,27070.15
+2016,Cataluña,Mujeres,media,21110.34
+2016,Cataluña,Mujeres,mediana,18372.96
+2016,Comunidad de Madrid,Hombres,cuartil_25,15889.39
+2016,Comunidad de Madrid,Hombres,cuartil_75,37121.73
+2016,Comunidad de Madrid,Hombres,media,29111.2
+2016,Comunidad de Madrid,Hombres,mediana,23368.24
+2016,Comunidad de Madrid,Mujeres,cuartil_25,12641.22
+2016,Comunidad de Madrid,Mujeres,cuartil_75,30000.0
+2016,Comunidad de Madrid,Mujeres,media,23371.33
+2016,Comunidad de Madrid,Mujeres,mediana,18823.19
+2016,Comunitat Valenciana,Hombres,cuartil_25,15376.32
+2016,Comunitat Valenciana,Hombres,cuartil_75,28509.58
+2016,Comunitat Valenciana,Hombres,media,23672.18
+2016,Comunitat Valenciana,Hombres,mediana,19626.45
+2016,Comunitat Valenciana,Mujeres,cuartil_25,10111.64
+2016,Comunitat Valenciana,Mujeres,cuartil_75,23126.03
+2016,Comunitat Valenciana,Mujeres,media,18349.52
+2016,Comunitat Valenciana,Mujeres,mediana,15418.32
+2016,Extremadura,Hombres,cuartil_25,14238.14
+2016,Extremadura,Hombres,cuartil_75,25697.56
+2016,Extremadura,Hombres,media,21554.75
+2016,Extremadura,Hombres,mediana,17972.0
+2016,Extremadura,Mujeres,cuartil_25,8466.45
+2016,Extremadura,Mujeres,cuartil_75,23624.78
+2016,Extremadura,Mujeres,media,17360.28
+2016,Extremadura,Mujeres,mediana,14711.69
+2016,Galicia,Hombres,cuartil_25,15918.42
+2016,Galicia,Hombres,cuartil_75,27904.96
+2016,Galicia,Hombres,media,23774.21
+2016,Galicia,Hombres,mediana,20204.71
+2016,Galicia,Mujeres,cuartil_25,10970.63
+2016,Galicia,Mujeres,cuartil_75,22561.92
+2016,Galicia,Mujeres,media,18294.47
+2016,Galicia,Mujeres,mediana,15542.62
+2016,Illes Balears,Hombres,cuartil_25,15423.91
+2016,Illes Balears,Hombres,cuartil_75,26878.5
+2016,Illes Balears,Hombres,media,23286.85
+2016,Illes Balears,Hombres,mediana,20106.69
+2016,Illes Balears,Mujeres,cuartil_25,12354.0
+2016,Illes Balears,Mujeres,cuartil_75,24141.58
+2016,Illes Balears,Mujeres,media,19702.6
+2016,Illes Balears,Mujeres,mediana,17582.01
+2016,La Rioja,Hombres,cuartil_25,16879.66
+2016,La Rioja,Hombres,cuartil_75,29093.43
+2016,La Rioja,Hombres,media,24653.37
+2016,La Rioja,Hombres,mediana,21335.07
+2016,La Rioja,Mujeres,cuartil_25,11026.54
+2016,La Rioja,Mujeres,cuartil_75,23813.08
+2016,La Rioja,Mujeres,media,19047.2
+2016,La Rioja,Mujeres,mediana,16648.52
+2016,Navarra,Hombres,cuartil_25,19078.73
+2016,Navarra,Hombres,cuartil_75,36113.63
+2016,Navarra,Hombres,media,29098.99
+2016,Navarra,Hombres,mediana,26322.04
+2016,Navarra,Mujeres,cuartil_25,12484.41
+2016,Navarra,Mujeres,cuartil_75,26875.45
+2016,Navarra,Mujeres,media,20946.0
+2016,Navarra,Mujeres,mediana,19009.17
+2016,País Vasco,Hombres,cuartil_25,19951.2
+2016,País Vasco,Hombres,cuartil_75,39302.64
+2016,País Vasco,Hombres,media,31001.21
+2016,País Vasco,Hombres,mediana,28419.15
+2016,País Vasco,Mujeres,cuartil_25,12796.19
+2016,País Vasco,Mujeres,cuartil_75,31615.8
+2016,País Vasco,Mujeres,media,23428.18
+2016,País Vasco,Mujeres,mediana,20464.68
+2016,Región de Murcia,Hombres,cuartil_25,14717.85
+2016,Región de Murcia,Hombres,cuartil_75,28740.68
+2016,Región de Murcia,Hombres,media,23947.99
+2016,Región de Murcia,Hombres,mediana,19568.38
+2016,Región de Murcia,Mujeres,cuartil_25,9621.41
+2016,Región de Murcia,Mujeres,cuartil_75,23562.6
+2016,Región de Murcia,Mujeres,media,18033.05
+2016,Región de Murcia,Mujeres,mediana,14437.37
+2017,Andalucía,Hombres,cuartil_25,15680.56
+2017,Andalucía,Hombres,cuartil_75,29443.23
+2017,Andalucía,Hombres,media,24175.52
+2017,Andalucía,Hombres,mediana,20410.32
+2017,Andalucía,Mujeres,cuartil_25,9907.8
+2017,Andalucía,Mujeres,cuartil_75,23772.43
+2017,Andalucía,Mujeres,media,18287.29
+2017,Andalucía,Mujeres,mediana,15368.02
+2017,Aragón,Hombres,cuartil_25,17363.47
+2017,Aragón,Hombres,cuartil_75,31121.85
+2017,Aragón,Hombres,media,25878.46
+2017,Aragón,Hombres,mediana,22790.36
+2017,Aragón,Mujeres,cuartil_25,11626.11
+2017,Aragón,Mujeres,cuartil_75,24684.39
+2017,Aragón,Mujeres,media,19677.22
+2017,Aragón,Mujeres,mediana,16812.83
+2017,Asturias,Hombres,cuartil_25,17879.09
+2017,Asturias,Hombres,cuartil_75,34780.69
+2017,Asturias,Hombres,media,27849.0
+2017,Asturias,Hombres,mediana,24030.46
+2017,Asturias,Mujeres,cuartil_25,11309.49
+2017,Asturias,Mujeres,cuartil_75,24169.15
+2017,Asturias,Mujeres,media,19426.48
+2017,Asturias,Mujeres,mediana,15795.6
+2017,Canarias,Hombres,cuartil_25,13652.33
+2017,Canarias,Hombres,cuartil_75,24621.85
+2017,Canarias,Hombres,media,21291.66
+2017,Canarias,Hombres,mediana,17776.74
+2017,Canarias,Mujeres,cuartil_25,11207.17
+2017,Canarias,Mujeres,cuartil_75,23162.2
+2017,Canarias,Mujeres,media,18917.73
+2017,Canarias,Mujeres,mediana,16343.72
+2017,Cantabria,Hombres,cuartil_25,16044.22
+2017,Cantabria,Hombres,cuartil_75,31213.07
+2017,Cantabria,Hombres,media,25249.94
+2017,Cantabria,Hombres,mediana,21322.62
+2017,Cantabria,Mujeres,cuartil_25,11223.96
+2017,Cantabria,Mujeres,cuartil_75,24158.18
+2017,Cantabria,Mujeres,media,19012.2
+2017,Cantabria,Mujeres,mediana,15998.06
+2017,Castilla y León,Hombres,cuartil_25,16324.44
+2017,Castilla y León,Hombres,cuartil_75,30184.74
+2017,Castilla y León,Hombres,media,24782.8
+2017,Castilla y León,Hombres,mediana,21162.75
+2017,Castilla y León,Mujeres,cuartil_25,10770.0
+2017,Castilla y León,Mujeres,cuartil_75,23910.55
+2017,Castilla y León,Mujeres,media,18796.93
+2017,Castilla y León,Mujeres,mediana,15985.41
+2017,Castilla-La Mancha,Hombres,cuartil_25,15625.8
+2017,Castilla-La Mancha,Hombres,cuartil_75,26863.69
+2017,Castilla-La Mancha,Hombres,media,23160.99
+2017,Castilla-La Mancha,Hombres,mediana,19295.42
+2017,Castilla-La Mancha,Mujeres,cuartil_25,9930.07
+2017,Castilla-La Mancha,Mujeres,cuartil_75,23041.89
+2017,Castilla-La Mancha,Mujeres,media,18327.35
+2017,Castilla-La Mancha,Mujeres,mediana,15130.6
+2017,Cataluña,Hombres,cuartil_25,17760.96
+2017,Cataluña,Hombres,cuartil_75,35500.0
+2017,Cataluña,Hombres,media,28323.31
+2017,Cataluña,Hombres,mediana,24473.89
+2017,Cataluña,Mujeres,cuartil_25,12586.62
+2017,Cataluña,Mujeres,cuartil_75,27662.18
+2017,Cataluña,Mujeres,media,21801.47
+2017,Cataluña,Mujeres,mediana,18865.83
+2017,Comunidad de Madrid,Hombres,cuartil_25,16477.3
+2017,Comunidad de Madrid,Hombres,cuartil_75,37524.86
+2017,Comunidad de Madrid,Hombres,media,29910.43
+2017,Comunidad de Madrid,Hombres,mediana,23704.0
+2017,Comunidad de Madrid,Mujeres,cuartil_25,13048.7
+2017,Comunidad de Madrid,Mujeres,cuartil_75,30691.77
+2017,Comunidad de Madrid,Mujeres,media,24029.31
+2017,Comunidad de Madrid,Mujeres,mediana,19368.41
+2017,Comunitat Valenciana,Hombres,cuartil_25,15478.53
+2017,Comunitat Valenciana,Hombres,cuartil_75,28721.68
+2017,Comunitat Valenciana,Hombres,media,23867.74
+2017,Comunitat Valenciana,Hombres,mediana,20063.8
+2017,Comunitat Valenciana,Mujeres,cuartil_25,10345.03
+2017,Comunitat Valenciana,Mujeres,cuartil_75,23512.5
+2017,Comunitat Valenciana,Mujeres,media,18523.81
+2017,Comunitat Valenciana,Mujeres,mediana,15653.28
+2017,Extremadura,Hombres,cuartil_25,14642.76
+2017,Extremadura,Hombres,cuartil_75,25750.6
+2017,Extremadura,Hombres,media,21585.18
+2017,Extremadura,Hombres,mediana,18366.85
+2017,Extremadura,Mujeres,cuartil_25,9009.7
+2017,Extremadura,Mujeres,cuartil_75,24098.53
+2017,Extremadura,Mujeres,media,17722.29
+2017,Extremadura,Mujeres,mediana,14998.8
+2017,Galicia,Hombres,cuartil_25,16269.0
+2017,Galicia,Hombres,cuartil_75,29016.67
+2017,Galicia,Hombres,media,24321.64
+2017,Galicia,Hombres,mediana,20715.71
+2017,Galicia,Mujeres,cuartil_25,11191.79
+2017,Galicia,Mujeres,cuartil_75,23173.85
+2017,Galicia,Mujeres,media,18833.53
+2017,Galicia,Mujeres,mediana,15970.06
+2017,Illes Balears,Hombres,cuartil_25,16038.48
+2017,Illes Balears,Hombres,cuartil_75,26899.07
+2017,Illes Balears,Hombres,media,23538.43
+2017,Illes Balears,Hombres,mediana,20252.93
+2017,Illes Balears,Mujeres,cuartil_25,13237.67
+2017,Illes Balears,Mujeres,cuartil_75,24565.83
+2017,Illes Balears,Mujeres,media,20465.58
+2017,Illes Balears,Mujeres,mediana,18113.66
+2017,La Rioja,Hombres,cuartil_25,16997.73
+2017,La Rioja,Hombres,cuartil_75,28845.24
+2017,La Rioja,Hombres,media,24820.49
+2017,La Rioja,Hombres,mediana,21534.49
+2017,La Rioja,Mujeres,cuartil_25,11089.16
+2017,La Rioja,Mujeres,cuartil_75,24633.54
+2017,La Rioja,Mujeres,media,19353.55
+2017,La Rioja,Mujeres,mediana,16395.19
+2017,Navarra,Hombres,cuartil_25,20017.26
+2017,Navarra,Hombres,cuartil_75,36590.82
+2017,Navarra,Hombres,media,29699.1
+2017,Navarra,Hombres,mediana,26794.06
+2017,Navarra,Mujeres,cuartil_25,13073.35
+2017,Navarra,Mujeres,cuartil_75,27624.2
+2017,Navarra,Mujeres,media,21898.57
+2017,Navarra,Mujeres,mediana,19740.36
+2017,País Vasco,Hombres,cuartil_25,20814.0
+2017,País Vasco,Hombres,cuartil_75,40001.09
+2017,País Vasco,Hombres,media,31618.97
+2017,País Vasco,Hombres,mediana,29027.07
+2017,País Vasco,Mujeres,cuartil_25,13515.58
+2017,País Vasco,Mujeres,cuartil_75,32268.87
+2017,País Vasco,Mujeres,media,24165.97
+2017,País Vasco,Mujeres,mediana,21242.12
+2017,Región de Murcia,Hombres,cuartil_25,15893.25
+2017,Región de Murcia,Hombres,cuartil_75,28325.94
+2017,Región de Murcia,Hombres,media,24009.22
+2017,Región de Murcia,Hombres,mediana,20015.75
+2017,Región de Murcia,Mujeres,cuartil_25,10263.83
+2017,Región de Murcia,Mujeres,cuartil_75,22802.34
+2017,Región de Murcia,Mujeres,media,18048.37
+2017,Región de Murcia,Mujeres,mediana,14803.44
+2018,Andalucía,Hombres,cuartil_25,15209.15
+2018,Andalucía,Hombres,cuartil_75,30278.33
+2018,Andalucía,Hombres,media,24712.69
+2018,Andalucía,Hombres,mediana,20492.37
+2018,Andalucía,Mujeres,cuartil_25,9780.75
+2018,Andalucía,Mujeres,cuartil_75,24307.97
+2018,Andalucía,Mujeres,media,18672.11
+2018,Andalucía,Mujeres,mediana,15392.05
+2018,Aragón,Hombres,cuartil_25,17516.74
+2018,Aragón,Hombres,cuartil_75,32027.02
+2018,Aragón,Hombres,media,26640.59
+2018,Aragón,Hombres,mediana,23305.59
+2018,Aragón,Mujeres,cuartil_25,11581.49
+2018,Aragón,Mujeres,cuartil_75,25096.88
+2018,Aragón,Mujeres,media,20074.25
+2018,Aragón,Mujeres,mediana,17347.52
+2018,Asturias,Hombres,cuartil_25,17848.21
+2018,Asturias,Hombres,cuartil_75,35428.24
+2018,Asturias,Hombres,media,27912.91
+2018,Asturias,Hombres,mediana,24328.16
+2018,Asturias,Mujeres,cuartil_25,11019.96
+2018,Asturias,Mujeres,cuartil_75,24840.66
+2018,Asturias,Mujeres,media,19744.94
+2018,Asturias,Mujeres,mediana,16734.0
+2018,Canarias,Hombres,cuartil_25,14526.99
+2018,Canarias,Hombres,cuartil_75,25432.94
+2018,Canarias,Hombres,media,22333.63
+2018,Canarias,Hombres,mediana,18307.59
+2018,Canarias,Mujeres,cuartil_25,11424.44
+2018,Canarias,Mujeres,cuartil_75,22623.86
+2018,Canarias,Mujeres,media,19051.01
+2018,Canarias,Mujeres,mediana,16098.78
+2018,Cantabria,Hombres,cuartil_25,16547.52
+2018,Cantabria,Hombres,cuartil_75,30843.33
+2018,Cantabria,Hombres,media,25349.01
+2018,Cantabria,Hombres,mediana,21445.24
+2018,Cantabria,Mujeres,cuartil_25,12030.68
+2018,Cantabria,Mujeres,cuartil_75,24741.46
+2018,Cantabria,Mujeres,media,19630.01
+2018,Cantabria,Mujeres,mediana,16163.33
+2018,Castilla y León,Hombres,cuartil_25,16384.2
+2018,Castilla y León,Hombres,cuartil_75,30377.66
+2018,Castilla y León,Hombres,media,24714.04
+2018,Castilla y León,Hombres,mediana,20956.83
+2018,Castilla y León,Mujeres,cuartil_25,10622.62
+2018,Castilla y León,Mujeres,cuartil_75,24456.66
+2018,Castilla y León,Mujeres,media,19056.53
+2018,Castilla y León,Mujeres,mediana,16689.49
+2018,Castilla-La Mancha,Hombres,cuartil_25,16593.0
+2018,Castilla-La Mancha,Hombres,cuartil_75,27415.27
+2018,Castilla-La Mancha,Hombres,media,23960.1
+2018,Castilla-La Mancha,Hombres,mediana,20042.0
+2018,Castilla-La Mancha,Mujeres,cuartil_25,10284.05
+2018,Castilla-La Mancha,Mujeres,cuartil_75,23899.6
+2018,Castilla-La Mancha,Mujeres,media,19088.87
+2018,Castilla-La Mancha,Mujeres,mediana,15751.2
+2018,Cataluña,Hombres,cuartil_25,17919.99
+2018,Cataluña,Hombres,cuartil_75,35465.44
+2018,Cataluña,Hombres,media,28640.23
+2018,Cataluña,Hombres,mediana,24831.22
+2018,Cataluña,Mujeres,cuartil_25,12558.47
+2018,Cataluña,Mujeres,cuartil_75,28105.79
+2018,Cataluña,Mujeres,media,22289.9
+2018,Cataluña,Mujeres,mediana,18929.02
+2018,Comunidad de Madrid,Hombres,cuartil_25,16610.58
+2018,Comunidad de Madrid,Hombres,cuartil_75,37538.84
+2018,Comunidad de Madrid,Hombres,media,29816.34
+2018,Comunidad de Madrid,Hombres,mediana,23682.67
+2018,Comunidad de Madrid,Mujeres,cuartil_25,12989.48
+2018,Comunidad de Madrid,Mujeres,cuartil_75,30705.13
+2018,Comunidad de Madrid,Mujeres,media,23925.99
+2018,Comunidad de Madrid,Mujeres,mediana,19044.86
+2018,Comunitat Valenciana,Hombres,cuartil_25,15989.12
+2018,Comunitat Valenciana,Hombres,cuartil_75,29572.64
+2018,Comunitat Valenciana,Hombres,media,24537.07
+2018,Comunitat Valenciana,Hombres,mediana,20581.98
+2018,Comunitat Valenciana,Mujeres,cuartil_25,10867.61
+2018,Comunitat Valenciana,Mujeres,cuartil_75,24240.0
+2018,Comunitat Valenciana,Mujeres,media,19235.72
+2018,Comunitat Valenciana,Mujeres,mediana,16283.93
+2018,Extremadura,Hombres,cuartil_25,14948.17
+2018,Extremadura,Hombres,cuartil_75,24685.45
+2018,Extremadura,Hombres,media,21794.57
+2018,Extremadura,Hombres,mediana,18579.73
+2018,Extremadura,Mujeres,cuartil_25,8781.44
+2018,Extremadura,Mujeres,cuartil_75,22977.31
+2018,Extremadura,Mujeres,media,17972.63
+2018,Extremadura,Mujeres,mediana,15114.77
+2018,Galicia,Hombres,cuartil_25,16227.76
+2018,Galicia,Hombres,cuartil_75,28737.16
+2018,Galicia,Hombres,media,24826.91
+2018,Galicia,Hombres,mediana,20357.74
+2018,Galicia,Mujeres,cuartil_25,11565.45
+2018,Galicia,Mujeres,cuartil_75,24653.09
+2018,Galicia,Mujeres,media,19543.17
+2018,Galicia,Mujeres,mediana,16146.14
+2018,Illes Balears,Hombres,cuartil_25,15850.26
+2018,Illes Balears,Hombres,cuartil_75,28926.98
+2018,Illes Balears,Hombres,media,24437.58
+2018,Illes Balears,Hombres,mediana,21311.13
+2018,Illes Balears,Mujeres,cuartil_25,13091.94
+2018,Illes Balears,Mujeres,cuartil_75,25764.13
+2018,Illes Balears,Mujeres,media,21085.74
+2018,Illes Balears,Mujeres,mediana,18732.27
+2018,La Rioja,Hombres,cuartil_25,17679.0
+2018,La Rioja,Hombres,cuartil_75,30840.3
+2018,La Rioja,Hombres,media,25593.27
+2018,La Rioja,Hombres,mediana,22332.89
+2018,La Rioja,Mujeres,cuartil_25,12193.54
+2018,La Rioja,Mujeres,cuartil_75,24600.0
+2018,La Rioja,Mujeres,media,19770.93
+2018,La Rioja,Mujeres,mediana,16793.4
+2018,Navarra,Hombres,cuartil_25,20553.03
+2018,Navarra,Hombres,cuartil_75,35948.68
+2018,Navarra,Hombres,media,29546.12
+2018,Navarra,Hombres,mediana,26845.99
+2018,Navarra,Mujeres,cuartil_25,13640.48
+2018,Navarra,Mujeres,cuartil_75,29150.65
+2018,Navarra,Mujeres,media,22697.59
+2018,Navarra,Mujeres,mediana,20530.96
+2018,País Vasco,Hombres,cuartil_25,20908.0
+2018,País Vasco,Hombres,cuartil_75,40391.18
+2018,País Vasco,Hombres,media,31970.3
+2018,País Vasco,Hombres,mediana,28922.3
+2018,País Vasco,Mujeres,cuartil_25,13331.94
+2018,País Vasco,Mujeres,cuartil_75,33683.72
+2018,País Vasco,Mujeres,media,24757.18
+2018,País Vasco,Mujeres,mediana,20933.65
+2018,Región de Murcia,Hombres,cuartil_25,15211.05
+2018,Región de Murcia,Hombres,cuartil_75,27982.47
+2018,Región de Murcia,Hombres,media,23670.24
+2018,Región de Murcia,Hombres,mediana,20046.05
+2018,Región de Murcia,Mujeres,cuartil_25,9929.88
+2018,Región de Murcia,Mujeres,cuartil_75,24142.46
+2018,Región de Murcia,Mujeres,media,18598.64
+2018,Región de Murcia,Mujeres,mediana,15498.24
+2019,Andalucía,Hombres,cuartil_25,15769.42
+2019,Andalucía,Hombres,cuartil_75,30071.42
+2019,Andalucía,Hombres,media,24527.67
+2019,Andalucía,Hombres,mediana,20433.9
+2019,Andalucía,Mujeres,cuartil_25,10818.08
+2019,Andalucía,Mujeres,cuartil_75,25060.2
+2019,Andalucía,Mujeres,media,19391.52
+2019,Andalucía,Mujeres,mediana,15977.45
+2019,Aragón,Hombres,cuartil_25,17348.92
+2019,Aragón,Hombres,cuartil_75,32426.95
+2019,Aragón,Hombres,media,26404.73
+2019,Aragón,Hombres,mediana,23180.28
+2019,Aragón,Mujeres,cuartil_25,12346.52
+2019,Aragón,Mujeres,cuartil_75,25538.67
+2019,Aragón,Mujeres,media,20360.25
+2019,Aragón,Mujeres,mediana,17600.08
+2019,Asturias,Hombres,cuartil_25,17884.68
+2019,Asturias,Hombres,cuartil_75,35517.33
+2019,Asturias,Hombres,media,28481.75
+2019,Asturias,Hombres,mediana,24572.07
+2019,Asturias,Mujeres,cuartil_25,12012.88
+2019,Asturias,Mujeres,cuartil_75,28157.65
+2019,Asturias,Mujeres,media,21298.58
+2019,Asturias,Mujeres,mediana,17275.56
+2019,Canarias,Hombres,cuartil_25,14142.88
+2019,Canarias,Hombres,cuartil_75,25246.21
+2019,Canarias,Hombres,media,22082.69
+2019,Canarias,Hombres,mediana,18239.21
+2019,Canarias,Mujeres,cuartil_25,11730.79
+2019,Canarias,Mujeres,cuartil_75,23186.56
+2019,Canarias,Mujeres,media,19540.82
+2019,Canarias,Mujeres,mediana,16333.36
+2019,Cantabria,Hombres,cuartil_25,16776.55
+2019,Cantabria,Hombres,cuartil_75,32049.24
+2019,Cantabria,Hombres,media,25795.43
+2019,Cantabria,Hombres,mediana,21609.68
+2019,Cantabria,Mujeres,cuartil_25,12300.5
+2019,Cantabria,Mujeres,cuartil_75,27128.94
+2019,Cantabria,Mujeres,media,20600.16
+2019,Cantabria,Mujeres,mediana,17278.21
+2019,Castilla y León,Hombres,cuartil_25,16302.05
+2019,Castilla y León,Hombres,cuartil_75,29721.16
+2019,Castilla y León,Hombres,media,24665.79
+2019,Castilla y León,Hombres,mediana,21042.97
+2019,Castilla y León,Mujeres,cuartil_25,11519.02
+2019,Castilla y León,Mujeres,cuartil_75,24794.74
+2019,Castilla y León,Mujeres,media,19414.11
+2019,Castilla y León,Mujeres,mediana,16352.32
+2019,Castilla-La Mancha,Hombres,cuartil_25,16199.26
+2019,Castilla-La Mancha,Hombres,cuartil_75,27168.54
+2019,Castilla-La Mancha,Hombres,media,23494.17
+2019,Castilla-La Mancha,Hombres,mediana,19757.49
+2019,Castilla-La Mancha,Mujeres,cuartil_25,11657.19
+2019,Castilla-La Mancha,Mujeres,cuartil_75,25096.96
+2019,Castilla-La Mancha,Mujeres,media,19939.58
+2019,Castilla-La Mancha,Mujeres,mediana,16554.6
+2019,Cataluña,Hombres,cuartil_25,18090.72
+2019,Cataluña,Hombres,cuartil_75,35926.12
+2019,Cataluña,Hombres,media,28965.38
+2019,Cataluña,Hombres,mediana,24775.69
+2019,Cataluña,Mujeres,cuartil_25,13441.14
+2019,Cataluña,Mujeres,cuartil_75,29159.18
+2019,Cataluña,Mujeres,media,22988.22
+2019,Cataluña,Mujeres,mediana,19750.0
+2019,Comunidad de Madrid,Hombres,cuartil_25,16958.07
+2019,Comunidad de Madrid,Hombres,cuartil_75,38694.39
+2019,Comunidad de Madrid,Hombres,media,30530.89
+2019,Comunidad de Madrid,Hombres,mediana,24408.73
+2019,Comunidad de Madrid,Mujeres,cuartil_25,13551.2
+2019,Comunidad de Madrid,Mujeres,cuartil_75,32189.62
+2019,Comunidad de Madrid,Mujeres,media,24873.79
+2019,Comunidad de Madrid,Mujeres,mediana,20182.37
+2019,Comunitat Valenciana,Hombres,cuartil_25,15833.6
+2019,Comunitat Valenciana,Hombres,cuartil_75,29310.96
+2019,Comunitat Valenciana,Hombres,media,24499.53
+2019,Comunitat Valenciana,Hombres,mediana,20600.02
+2019,Comunitat Valenciana,Mujeres,cuartil_25,10835.7
+2019,Comunitat Valenciana,Mujeres,cuartil_75,24514.53
+2019,Comunitat Valenciana,Mujeres,media,19314.58
+2019,Comunitat Valenciana,Mujeres,mediana,15913.39
+2019,Extremadura,Hombres,cuartil_25,14996.16
+2019,Extremadura,Hombres,cuartil_75,24948.77
+2019,Extremadura,Hombres,media,21823.73
+2019,Extremadura,Hombres,mediana,18367.82
+2019,Extremadura,Mujeres,cuartil_25,9526.66
+2019,Extremadura,Mujeres,cuartil_75,23472.09
+2019,Extremadura,Mujeres,media,18012.58
+2019,Extremadura,Mujeres,mediana,14741.57
+2019,Galicia,Hombres,cuartil_25,16370.47
+2019,Galicia,Hombres,cuartil_75,28847.5
+2019,Galicia,Hombres,media,24542.83
+2019,Galicia,Hombres,mediana,20847.81
+2019,Galicia,Mujeres,cuartil_25,12110.39
+2019,Galicia,Mujeres,cuartil_75,24071.04
+2019,Galicia,Mujeres,media,19818.26
+2019,Galicia,Mujeres,mediana,16412.28
+2019,Illes Balears,Hombres,cuartil_25,17149.94
+2019,Illes Balears,Hombres,cuartil_75,29034.16
+2019,Illes Balears,Hombres,media,24914.51
+2019,Illes Balears,Hombres,mediana,21327.78
+2019,Illes Balears,Mujeres,cuartil_25,14095.08
+2019,Illes Balears,Mujeres,cuartil_75,25583.05
+2019,Illes Balears,Mujeres,media,21631.07
+2019,Illes Balears,Mujeres,mediana,19288.65
+2019,La Rioja,Hombres,cuartil_25,17405.96
+2019,La Rioja,Hombres,cuartil_75,30002.61
+2019,La Rioja,Hombres,media,25342.99
+2019,La Rioja,Hombres,mediana,22000.0
+2019,La Rioja,Mujeres,cuartil_25,12051.6
+2019,La Rioja,Mujeres,cuartil_75,25351.93
+2019,La Rioja,Mujeres,media,20377.23
+2019,La Rioja,Mujeres,mediana,16888.67
+2019,Navarra,Hombres,cuartil_25,20723.1
+2019,Navarra,Hombres,cuartil_75,37347.94
+2019,Navarra,Hombres,media,30564.9
+2019,Navarra,Hombres,mediana,27288.27
+2019,Navarra,Mujeres,cuartil_25,14278.71
+2019,Navarra,Mujeres,cuartil_75,30715.53
+2019,Navarra,Mujeres,media,23728.82
+2019,Navarra,Mujeres,mediana,21967.08
+2019,País Vasco,Hombres,cuartil_25,20856.06
+2019,País Vasco,Hombres,cuartil_75,41380.67
+2019,País Vasco,Hombres,media,32529.17
+2019,País Vasco,Hombres,mediana,29339.67
+2019,País Vasco,Mujeres,cuartil_25,14666.0
+2019,País Vasco,Mujeres,cuartil_75,35425.0
+2019,País Vasco,Mujeres,media,26197.62
+2019,País Vasco,Mujeres,mediana,22498.0
+2019,Región de Murcia,Hombres,cuartil_25,15853.14
+2019,Región de Murcia,Hombres,cuartil_75,28541.6
+2019,Región de Murcia,Hombres,media,24289.41
+2019,Región de Murcia,Hombres,mediana,20183.28
+2019,Región de Murcia,Mujeres,cuartil_25,11122.43
+2019,Región de Murcia,Mujeres,cuartil_75,24534.48
+2019,Región de Murcia,Mujeres,media,19431.25
+2019,Región de Murcia,Mujeres,mediana,15598.4
+2020,Andalucía,Hombres,cuartil_25,15800.22
+2020,Andalucía,Hombres,cuartil_75,30069.56
+2020,Andalucía,Hombres,media,24785.82
+2020,Andalucía,Hombres,mediana,20492.93
+2020,Andalucía,Mujeres,cuartil_25,10942.79
+2020,Andalucía,Mujeres,cuartil_75,25271.08
+2020,Andalucía,Mujeres,media,19517.52
+2020,Andalucía,Mujeres,mediana,15743.42
+2020,Aragón,Hombres,cuartil_25,17779.71
+2020,Aragón,Hombres,cuartil_75,32107.06
+2020,Aragón,Hombres,media,26505.7
+2020,Aragón,Hombres,mediana,23057.14
+2020,Aragón,Mujeres,cuartil_25,13302.28
+2020,Aragón,Mujeres,cuartil_75,26378.08
+2020,Aragón,Mujeres,media,21365.11
+2020,Aragón,Mujeres,mediana,18795.58
+2020,Asturias,Hombres,cuartil_25,18249.09
+2020,Asturias,Hombres,cuartil_75,35658.38
+2020,Asturias,Hombres,media,27948.09
+2020,Asturias,Hombres,mediana,24674.08
+2020,Asturias,Mujeres,cuartil_25,12340.77
+2020,Asturias,Mujeres,cuartil_75,27841.29
+2020,Asturias,Mujeres,media,21308.01
+2020,Asturias,Mujeres,mediana,17389.89
+2020,Canarias,Hombres,cuartil_25,14278.87
+2020,Canarias,Hombres,cuartil_75,25737.17
+2020,Canarias,Hombres,media,22697.51
+2020,Canarias,Hombres,mediana,18181.65
+2020,Canarias,Mujeres,cuartil_25,12132.78
+2020,Canarias,Mujeres,cuartil_75,25591.13
+2020,Canarias,Mujeres,media,20461.63
+2020,Canarias,Mujeres,mediana,17094.27
+2020,Cantabria,Hombres,cuartil_25,16887.75
+2020,Cantabria,Hombres,cuartil_75,31304.26
+2020,Cantabria,Hombres,media,25804.13
+2020,Cantabria,Hombres,mediana,21706.8
+2020,Cantabria,Mujeres,cuartil_25,12184.28
+2020,Cantabria,Mujeres,cuartil_75,27501.8
+2020,Cantabria,Mujeres,media,20996.83
+2020,Cantabria,Mujeres,mediana,17287.2
+2020,Castilla y León,Hombres,cuartil_25,17079.92
+2020,Castilla y León,Hombres,cuartil_75,30503.33
+2020,Castilla y León,Hombres,media,25549.98
+2020,Castilla y León,Hombres,mediana,21457.67
+2020,Castilla y León,Mujeres,cuartil_25,11463.22
+2020,Castilla y León,Mujeres,cuartil_75,26035.89
+2020,Castilla y León,Mujeres,media,20314.96
+2020,Castilla y León,Mujeres,mediana,17000.04
+2020,Castilla-La Mancha,Hombres,cuartil_25,16086.07
+2020,Castilla-La Mancha,Hombres,cuartil_75,27776.23
+2020,Castilla-La Mancha,Hombres,media,24029.31
+2020,Castilla-La Mancha,Hombres,mediana,20048.87
+2020,Castilla-La Mancha,Mujeres,cuartil_25,12331.43
+2020,Castilla-La Mancha,Mujeres,cuartil_75,25934.5
+2020,Castilla-La Mancha,Mujeres,media,20761.55
+2020,Castilla-La Mancha,Mujeres,mediana,17037.62
+2020,Cataluña,Hombres,cuartil_25,18497.99
+2020,Cataluña,Hombres,cuartil_75,37261.26
+2020,Cataluña,Hombres,media,30003.62
+2020,Cataluña,Hombres,mediana,25514.32
+2020,Cataluña,Mujeres,cuartil_25,14048.89
+2020,Cataluña,Mujeres,cuartil_75,30409.49
+2020,Cataluña,Mujeres,media,24096.69
+2020,Cataluña,Mujeres,mediana,20385.64
+2020,Comunidad de Madrid,Hombres,cuartil_25,17649.47
+2020,Comunidad de Madrid,Hombres,cuartil_75,39945.14
+2020,Comunidad de Madrid,Hombres,media,31495.31
+2020,Comunidad de Madrid,Hombres,mediana,25381.84
+2020,Comunidad de Madrid,Mujeres,cuartil_25,14085.32
+2020,Comunidad de Madrid,Mujeres,cuartil_75,33262.84
+2020,Comunidad de Madrid,Mujeres,media,25900.29
+2020,Comunidad de Madrid,Mujeres,mediana,21072.14
+2020,Comunitat Valenciana,Hombres,cuartil_25,15778.3
+2020,Comunitat Valenciana,Hombres,cuartil_75,30462.16
+2020,Comunitat Valenciana,Hombres,media,25239.04
+2020,Comunitat Valenciana,Hombres,mediana,20937.16
+2020,Comunitat Valenciana,Mujeres,cuartil_25,11707.31
+2020,Comunitat Valenciana,Mujeres,cuartil_75,25690.87
+2020,Comunitat Valenciana,Mujeres,media,20165.73
+2020,Comunitat Valenciana,Mujeres,mediana,16540.03
+2020,Extremadura,Hombres,cuartil_25,14919.81
+2020,Extremadura,Hombres,cuartil_75,24999.96
+2020,Extremadura,Hombres,media,22071.78
+2020,Extremadura,Hombres,mediana,18431.63
+2020,Extremadura,Mujeres,cuartil_25,10455.32
+2020,Extremadura,Mujeres,cuartil_75,24477.67
+2020,Extremadura,Mujeres,media,18791.05
+2020,Extremadura,Mujeres,mediana,15460.28
+2020,Galicia,Hombres,cuartil_25,16670.47
+2020,Galicia,Hombres,cuartil_75,29313.52
+2020,Galicia,Hombres,media,25276.16
+2020,Galicia,Hombres,mediana,21045.87
+2020,Galicia,Mujeres,cuartil_25,11832.11
+2020,Galicia,Mujeres,cuartil_75,25172.14
+2020,Galicia,Mujeres,media,20446.53
+2020,Galicia,Mujeres,mediana,16765.2
+2020,Illes Balears,Hombres,cuartil_25,17403.07
+2020,Illes Balears,Hombres,cuartil_75,29254.16
+2020,Illes Balears,Hombres,media,25699.53
+2020,Illes Balears,Hombres,mediana,21624.74
+2020,Illes Balears,Mujeres,cuartil_25,13422.04
+2020,Illes Balears,Mujeres,cuartil_75,27158.99
+2020,Illes Balears,Mujeres,media,21998.23
+2020,Illes Balears,Mujeres,mediana,18585.29
+2020,La Rioja,Hombres,cuartil_25,17640.71
+2020,La Rioja,Hombres,cuartil_75,30032.78
+2020,La Rioja,Hombres,media,25664.88
+2020,La Rioja,Hombres,mediana,22207.08
+2020,La Rioja,Mujeres,cuartil_25,12321.99
+2020,La Rioja,Mujeres,cuartil_75,26455.73
+2020,La Rioja,Mujeres,media,20959.44
+2020,La Rioja,Mujeres,mediana,17061.71
+2020,Navarra,Hombres,cuartil_25,21222.7
+2020,Navarra,Hombres,cuartil_75,38957.32
+2020,Navarra,Hombres,media,31317.91
+2020,Navarra,Hombres,mediana,27762.48
+2020,Navarra,Mujeres,cuartil_25,14619.03
+2020,Navarra,Mujeres,cuartil_75,31019.13
+2020,Navarra,Mujeres,media,24047.13
+2020,Navarra,Mujeres,mediana,21861.92
+2020,País Vasco,Hombres,cuartil_25,21138.0
+2020,País Vasco,Hombres,cuartil_75,41542.52
+2020,País Vasco,Hombres,media,33040.1
+2020,País Vasco,Hombres,mediana,29858.0
+2020,País Vasco,Mujeres,cuartil_25,15058.97
+2020,País Vasco,Mujeres,cuartil_75,36375.0
+2020,País Vasco,Mujeres,media,27125.9
+2020,País Vasco,Mujeres,mediana,23566.0
+2020,Región de Murcia,Hombres,cuartil_25,16581.24
+2020,Región de Murcia,Hombres,cuartil_75,29943.39
+2020,Región de Murcia,Hombres,media,25227.26
+2020,Región de Murcia,Hombres,mediana,21142.41
+2020,Región de Murcia,Mujeres,cuartil_25,11456.35
+2020,Región de Murcia,Mujeres,cuartil_75,25524.87
+2020,Región de Murcia,Mujeres,media,20007.14
+2020,Región de Murcia,Mujeres,mediana,16093.74
+2021,Andalucía,Hombres,cuartil_25,16407.86
+2021,Andalucía,Hombres,cuartil_75,30964.11
+2021,Andalucía,Hombres,media,25464.78
+2021,Andalucía,Hombres,mediana,20997.73
+2021,Andalucía,Mujeres,cuartil_25,11828.88
+2021,Andalucía,Mujeres,cuartil_75,25926.61
+2021,Andalucía,Mujeres,media,20427.8
+2021,Andalucía,Mujeres,mediana,16516.76
+2021,Aragón,Hombres,cuartil_25,18671.27
+2021,Aragón,Hombres,cuartil_75,32695.5
+2021,Aragón,Hombres,media,27389.18
+2021,Aragón,Hombres,mediana,24341.89
+2021,Aragón,Mujeres,cuartil_25,13608.58
+2021,Aragón,Mujeres,cuartil_75,27786.01
+2021,Aragón,Mujeres,media,22283.81
+2021,Aragón,Mujeres,mediana,19156.2
+2021,Asturias,Hombres,cuartil_25,18400.65
+2021,Asturias,Hombres,cuartil_75,35565.37
+2021,Asturias,Hombres,media,28399.51
+2021,Asturias,Hombres,mediana,24842.33
+2021,Asturias,Mujeres,cuartil_25,12727.65
+2021,Asturias,Mujeres,cuartil_75,28675.04
+2021,Asturias,Mujeres,media,21808.96
+2021,Asturias,Mujeres,mediana,17878.32
+2021,Canarias,Hombres,cuartil_25,14782.49
+2021,Canarias,Hombres,cuartil_75,26708.22
+2021,Canarias,Hombres,media,23619.76
+2021,Canarias,Hombres,mediana,18679.87
+2021,Canarias,Mujeres,cuartil_25,13039.32
+2021,Canarias,Mujeres,cuartil_75,26114.7
+2021,Canarias,Mujeres,media,21178.57
+2021,Canarias,Mujeres,mediana,17152.56
+2021,Cantabria,Hombres,cuartil_25,18380.86
+2021,Cantabria,Hombres,cuartil_75,33169.27
+2021,Cantabria,Hombres,media,27233.75
+2021,Cantabria,Hombres,mediana,22998.26
+2021,Cantabria,Mujeres,cuartil_25,13007.16
+2021,Cantabria,Mujeres,cuartil_75,28547.28
+2021,Cantabria,Mujeres,media,21532.96
+2021,Cantabria,Mujeres,mediana,18036.06
+2021,Castilla y León,Hombres,cuartil_25,17592.02
+2021,Castilla y León,Hombres,cuartil_75,31358.42
+2021,Castilla y León,Hombres,media,26263.49
+2021,Castilla y León,Hombres,mediana,22476.57
+2021,Castilla y León,Mujeres,cuartil_25,12289.42
+2021,Castilla y León,Mujeres,cuartil_75,26533.6
+2021,Castilla y León,Mujeres,media,20795.39
+2021,Castilla y León,Mujeres,mediana,17479.26
+2021,Castilla-La Mancha,Hombres,cuartil_25,16998.38
+2021,Castilla-La Mancha,Hombres,cuartil_75,28398.68
+2021,Castilla-La Mancha,Hombres,media,24897.33
+2021,Castilla-La Mancha,Hombres,mediana,20970.07
+2021,Castilla-La Mancha,Mujeres,cuartil_25,12917.9
+2021,Castilla-La Mancha,Mujeres,cuartil_75,26178.69
+2021,Castilla-La Mancha,Mujeres,media,21154.58
+2021,Castilla-La Mancha,Mujeres,mediana,17580.04
+2021,Cataluña,Hombres,cuartil_25,18781.58
+2021,Cataluña,Hombres,cuartil_75,39308.28
+2021,Cataluña,Hombres,media,31212.67
+2021,Cataluña,Hombres,mediana,26477.82
+2021,Cataluña,Mujeres,cuartil_25,14479.61
+2021,Cataluña,Mujeres,cuartil_75,31695.28
+2021,Cataluña,Mujeres,media,25015.94
+2021,Cataluña,Mujeres,mediana,21087.54
+2021,Comunidad de Madrid,Hombres,cuartil_25,18648.54
+2021,Comunidad de Madrid,Hombres,cuartil_75,40850.95
+2021,Comunidad de Madrid,Hombres,media,32213.88
+2021,Comunidad de Madrid,Hombres,mediana,26497.78
+2021,Comunidad de Madrid,Mujeres,cuartil_25,14765.04
+2021,Comunidad de Madrid,Mujeres,cuartil_75,33656.91
+2021,Comunidad de Madrid,Mujeres,media,26578.07
+2021,Comunidad de Madrid,Mujeres,mediana,21818.13
+2021,Comunitat Valenciana,Hombres,cuartil_25,16564.36
+2021,Comunitat Valenciana,Hombres,cuartil_75,31372.65
+2021,Comunitat Valenciana,Hombres,media,25914.86
+2021,Comunitat Valenciana,Hombres,mediana,21773.13
+2021,Comunitat Valenciana,Mujeres,cuartil_25,11916.85
+2021,Comunitat Valenciana,Mujeres,cuartil_75,26590.08
+2021,Comunitat Valenciana,Mujeres,media,20670.5
+2021,Comunitat Valenciana,Mujeres,mediana,17129.57
+2021,Extremadura,Hombres,cuartil_25,15239.35
+2021,Extremadura,Hombres,cuartil_75,25950.96
+2021,Extremadura,Hombres,media,22794.52
+2021,Extremadura,Hombres,mediana,18859.72
+2021,Extremadura,Mujeres,cuartil_25,10522.25
+2021,Extremadura,Mujeres,cuartil_75,26199.52
+2021,Extremadura,Mujeres,media,19833.03
+2021,Extremadura,Mujeres,mediana,16008.34
+2021,Galicia,Hombres,cuartil_25,17290.67
+2021,Galicia,Hombres,cuartil_75,30035.67
+2021,Galicia,Hombres,media,25794.19
+2021,Galicia,Hombres,mediana,21367.0
+2021,Galicia,Mujeres,cuartil_25,12634.1
+2021,Galicia,Mujeres,cuartil_75,26099.64
+2021,Galicia,Mujeres,media,20904.37
+2021,Galicia,Mujeres,mediana,17012.05
+2021,Illes Balears,Hombres,cuartil_25,17541.36
+2021,Illes Balears,Hombres,cuartil_75,29921.66
+2021,Illes Balears,Hombres,media,25898.51
+2021,Illes Balears,Hombres,mediana,21946.42
+2021,Illes Balears,Mujeres,cuartil_25,14823.65
+2021,Illes Balears,Mujeres,cuartil_75,26551.02
+2021,Illes Balears,Mujeres,media,22344.76
+2021,Illes Balears,Mujeres,mediana,19752.6
+2021,La Rioja,Hombres,cuartil_25,18456.78
+2021,La Rioja,Hombres,cuartil_75,31169.82
+2021,La Rioja,Hombres,media,26488.06
+2021,La Rioja,Hombres,mediana,23104.98
+2021,La Rioja,Mujeres,cuartil_25,12995.39
+2021,La Rioja,Mujeres,cuartil_75,26490.66
+2021,La Rioja,Mujeres,media,21135.77
+2021,La Rioja,Mujeres,mediana,17955.65
+2021,Navarra,Hombres,cuartil_25,21484.68
+2021,Navarra,Hombres,cuartil_75,38891.02
+2021,Navarra,Hombres,media,31643.22
+2021,Navarra,Hombres,mediana,28151.09
+2021,Navarra,Mujeres,cuartil_25,14831.93
+2021,Navarra,Mujeres,cuartil_75,31888.14
+2021,Navarra,Mujeres,media,24809.14
+2021,Navarra,Mujeres,mediana,22431.68
+2021,País Vasco,Hombres,cuartil_25,21789.51
+2021,País Vasco,Hombres,cuartil_75,42362.0
+2021,País Vasco,Hombres,media,33706.34
+2021,País Vasco,Hombres,mediana,30698.57
+2021,País Vasco,Mujeres,cuartil_25,15743.59
+2021,País Vasco,Mujeres,cuartil_75,36938.96
+2021,País Vasco,Mujeres,media,28084.16
+2021,País Vasco,Mujeres,mediana,24316.65
+2021,Región de Murcia,Hombres,cuartil_25,16629.53
+2021,Región de Murcia,Hombres,cuartil_75,29975.27
+2021,Región de Murcia,Hombres,media,25674.66
+2021,Región de Murcia,Hombres,mediana,21244.88
+2021,Región de Murcia,Mujeres,cuartil_25,12194.48
+2021,Región de Murcia,Mujeres,cuartil_75,25408.69
+2021,Región de Murcia,Mujeres,media,20189.83
+2021,Región de Murcia,Mujeres,mediana,16257.09
+2022,Andalucía,Hombres,cuartil_25,16602.21
+2022,Andalucía,Hombres,cuartil_75,31110.24
+2022,Andalucía,Hombres,media,26189.5
+2022,Andalucía,Hombres,mediana,21378.14
+2022,Andalucía,Mujeres,cuartil_25,12385.05
+2022,Andalucía,Mujeres,cuartil_75,27902.91
+2022,Andalucía,Mujeres,media,21729.48
+2022,Andalucía,Mujeres,mediana,17692.39
+2022,Aragón,Hombres,cuartil_25,19379.74
+2022,Aragón,Hombres,cuartil_75,34526.07
+2022,Aragón,Hombres,media,28789.96
+2022,Aragón,Hombres,mediana,25401.8
+2022,Aragón,Mujeres,cuartil_25,14371.65
+2022,Aragón,Mujeres,cuartil_75,29095.96
+2022,Aragón,Mujeres,media,23138.72
+2022,Aragón,Mujeres,mediana,19654.84
+2022,Asturias,Hombres,cuartil_25,19134.3
+2022,Asturias,Hombres,cuartil_75,35770.18
+2022,Asturias,Hombres,media,29573.74
+2022,Asturias,Hombres,mediana,25922.38
+2022,Asturias,Mujeres,cuartil_25,14209.99
+2022,Asturias,Mujeres,cuartil_75,30593.22
+2022,Asturias,Mujeres,media,23792.42
+2022,Asturias,Mujeres,mediana,19071.38
+2022,Canarias,Hombres,cuartil_25,15712.43
+2022,Canarias,Hombres,cuartil_75,26228.17
+2022,Canarias,Hombres,media,23588.7
+2022,Canarias,Hombres,mediana,19702.75
+2022,Canarias,Mujeres,cuartil_25,14004.0
+2022,Canarias,Mujeres,cuartil_75,26839.44
+2022,Canarias,Mujeres,media,22574.98
+2022,Canarias,Mujeres,mediana,18575.12
+2022,Cantabria,Hombres,cuartil_25,18168.79
+2022,Cantabria,Hombres,cuartil_75,34405.0
+2022,Cantabria,Hombres,media,27820.83
+2022,Cantabria,Hombres,mediana,23748.57
+2022,Cantabria,Mujeres,cuartil_25,13855.7
+2022,Cantabria,Mujeres,cuartil_75,28278.14
+2022,Cantabria,Mujeres,media,22564.11
+2022,Cantabria,Mujeres,mediana,18557.96
+2022,Castilla y León,Hombres,cuartil_25,17576.53
+2022,Castilla y León,Hombres,cuartil_75,32214.92
+2022,Castilla y León,Hombres,media,26548.08
+2022,Castilla y León,Hombres,mediana,22712.4
+2022,Castilla y León,Mujeres,cuartil_25,13094.03
+2022,Castilla y León,Mujeres,cuartil_75,27123.0
+2022,Castilla y León,Mujeres,media,21773.27
+2022,Castilla y León,Mujeres,mediana,18166.97
+2022,Castilla-La Mancha,Hombres,cuartil_25,17732.49
+2022,Castilla-La Mancha,Hombres,cuartil_75,29940.4
+2022,Castilla-La Mancha,Hombres,media,25813.23
+2022,Castilla-La Mancha,Hombres,mediana,22001.93
+2022,Castilla-La Mancha,Mujeres,cuartil_25,12946.57
+2022,Castilla-La Mancha,Mujeres,cuartil_75,26111.54
+2022,Castilla-La Mancha,Mujeres,media,21312.65
+2022,Castilla-La Mancha,Mujeres,mediana,17887.13
+2022,Cataluña,Hombres,cuartil_25,20162.72
+2022,Cataluña,Hombres,cuartil_75,39291.82
+2022,Cataluña,Hombres,media,31878.42
+2022,Cataluña,Hombres,mediana,27410.44
+2022,Cataluña,Mujeres,cuartil_25,14702.0
+2022,Cataluña,Mujeres,cuartil_75,32955.4
+2022,Cataluña,Mujeres,media,25659.03
+2022,Cataluña,Mujeres,mediana,21602.76
+2022,Comunidad de Madrid,Hombres,cuartil_25,19020.12
+2022,Comunidad de Madrid,Hombres,cuartil_75,42575.16
+2022,Comunidad de Madrid,Hombres,media,34113.4
+2022,Comunidad de Madrid,Hombres,mediana,27110.0
+2022,Comunidad de Madrid,Mujeres,cuartil_25,15586.16
+2022,Comunidad de Madrid,Mujeres,cuartil_75,35700.3
+2022,Comunidad de Madrid,Mujeres,media,28123.47
+2022,Comunidad de Madrid,Mujeres,mediana,22898.14
+2022,Comunitat Valenciana,Hombres,cuartil_25,17387.08
+2022,Comunitat Valenciana,Hombres,cuartil_75,31547.76
+2022,Comunitat Valenciana,Hombres,media,26683.85
+2022,Comunitat Valenciana,Hombres,mediana,22501.65
+2022,Comunitat Valenciana,Mujeres,cuartil_25,13728.76
+2022,Comunitat Valenciana,Mujeres,cuartil_75,27134.47
+2022,Comunitat Valenciana,Mujeres,media,22135.35
+2022,Comunitat Valenciana,Mujeres,mediana,18263.9
+2022,Extremadura,Hombres,cuartil_25,15606.64
+2022,Extremadura,Hombres,cuartil_75,26438.97
+2022,Extremadura,Hombres,media,23170.92
+2022,Extremadura,Hombres,mediana,19447.99
+2022,Extremadura,Mujeres,cuartil_25,10627.0
+2022,Extremadura,Mujeres,cuartil_75,26908.81
+2022,Extremadura,Mujeres,media,20637.14
+2022,Extremadura,Mujeres,mediana,17367.87
+2022,Galicia,Hombres,cuartil_25,17882.78
+2022,Galicia,Hombres,cuartil_75,31055.08
+2022,Galicia,Hombres,media,26626.89
+2022,Galicia,Hombres,mediana,22994.16
+2022,Galicia,Mujeres,cuartil_25,13954.67
+2022,Galicia,Mujeres,cuartil_75,26659.27
+2022,Galicia,Mujeres,media,21912.75
+2022,Galicia,Mujeres,mediana,18165.51
+2022,Illes Balears,Hombres,cuartil_25,18570.5
+2022,Illes Balears,Hombres,cuartil_75,32938.6
+2022,Illes Balears,Hombres,media,28155.99
+2022,Illes Balears,Hombres,mediana,23410.51
+2022,Illes Balears,Mujeres,cuartil_25,16607.4
+2022,Illes Balears,Mujeres,cuartil_75,30408.7
+2022,Illes Balears,Mujeres,media,26054.2
+2022,Illes Balears,Mujeres,mediana,22399.92
+2022,La Rioja,Hombres,cuartil_25,19072.16
+2022,La Rioja,Hombres,cuartil_75,32674.55
+2022,La Rioja,Hombres,media,27741.6
+2022,La Rioja,Hombres,mediana,24562.11
+2022,La Rioja,Mujeres,cuartil_25,13238.67
+2022,La Rioja,Mujeres,cuartil_75,27484.57
+2022,La Rioja,Mujeres,media,22264.39
+2022,La Rioja,Mujeres,mediana,18613.25
+2022,Navarra,Hombres,cuartil_25,22193.01
+2022,Navarra,Hombres,cuartil_75,39251.72
+2022,Navarra,Hombres,media,31959.85
+2022,Navarra,Hombres,mediana,28806.88
+2022,Navarra,Mujeres,cuartil_25,15558.72
+2022,Navarra,Mujeres,cuartil_75,33777.13
+2022,Navarra,Mujeres,media,26033.3
+2022,Navarra,Mujeres,mediana,23484.97
+2022,País Vasco,Hombres,cuartil_25,22247.2
+2022,País Vasco,Hombres,cuartil_75,45209.24
+2022,País Vasco,Hombres,media,35095.67
+2022,País Vasco,Hombres,mediana,31877.52
+2022,País Vasco,Mujeres,cuartil_25,16997.47
+2022,País Vasco,Mujeres,cuartil_75,39718.28
+2022,País Vasco,Mujeres,media,29314.69
+2022,País Vasco,Mujeres,mediana,24911.92
+2022,Región de Murcia,Hombres,cuartil_25,16696.63
+2022,Región de Murcia,Hombres,cuartil_75,30165.0
+2022,Región de Murcia,Hombres,media,26240.66
+2022,Región de Murcia,Hombres,mediana,21555.29
+2022,Región de Murcia,Mujeres,cuartil_25,12982.74
+2022,Región de Murcia,Mujeres,cuartil_75,25658.66
+2022,Región de Murcia,Mujeres,media,20956.37
+2022,Región de Murcia,Mujeres,mediana,16981.34
+2023,Andalucía,Hombres,cuartil_25,17185.72
+2023,Andalucía,Hombres,cuartil_75,32637.18
+2023,Andalucía,Hombres,media,27085.5
+2023,Andalucía,Hombres,mediana,22387.18
+2023,Andalucía,Mujeres,cuartil_25,13092.45
+2023,Andalucía,Mujeres,cuartil_75,28624.85
+2023,Andalucía,Mujeres,media,22714.95
+2023,Andalucía,Mujeres,mediana,18151.97
+2023,Aragón,Hombres,cuartil_25,20189.23
+2023,Aragón,Hombres,cuartil_75,35517.9
+2023,Aragón,Hombres,media,29589.45
+2023,Aragón,Hombres,mediana,26478.21
+2023,Aragón,Mujeres,cuartil_25,15062.03
+2023,Aragón,Mujeres,cuartil_75,29311.62
+2023,Aragón,Mujeres,media,23925.28
+2023,Aragón,Mujeres,mediana,20506.55
+2023,Asturias,Hombres,cuartil_25,19867.17
+2023,Asturias,Hombres,cuartil_75,37578.03
+2023,Asturias,Hombres,media,31033.72
+2023,Asturias,Hombres,mediana,26369.55
+2023,Asturias,Mujeres,cuartil_25,14832.05
+2023,Asturias,Mujeres,cuartil_75,32500.77
+2023,Asturias,Mujeres,media,24808.62
+2023,Asturias,Mujeres,mediana,20362.08
+2023,Canarias,Hombres,cuartil_25,16223.39
+2023,Canarias,Hombres,cuartil_75,27485.53
+2023,Canarias,Hombres,media,24604.44
+2023,Canarias,Hombres,mediana,19963.8
+2023,Canarias,Mujeres,cuartil_25,14989.25
+2023,Canarias,Mujeres,cuartil_75,28642.45
+2023,Canarias,Mujeres,media,23439.06
+2023,Canarias,Mujeres,mediana,19438.09
+2023,Cantabria,Hombres,cuartil_25,19590.31
+2023,Cantabria,Hombres,cuartil_75,35543.83
+2023,Cantabria,Hombres,media,29145.64
+2023,Cantabria,Hombres,mediana,24540.45
+2023,Cantabria,Mujeres,cuartil_25,14836.07
+2023,Cantabria,Mujeres,cuartil_75,30142.85
+2023,Cantabria,Mujeres,media,23727.01
+2023,Cantabria,Mujeres,mediana,20005.18
+2023,Castilla y León,Hombres,cuartil_25,18576.66
+2023,Castilla y León,Hombres,cuartil_75,32649.46
+2023,Castilla y León,Hombres,media,27360.49
+2023,Castilla y León,Hombres,mediana,23735.9
+2023,Castilla y León,Mujeres,cuartil_25,14306.29
+2023,Castilla y León,Mujeres,cuartil_75,28852.44
+2023,Castilla y León,Mujeres,media,23104.3
+2023,Castilla y León,Mujeres,mediana,19610.03
+2023,Castilla-La Mancha,Hombres,cuartil_25,18045.09
+2023,Castilla-La Mancha,Hombres,cuartil_75,31013.9
+2023,Castilla-La Mancha,Hombres,media,26766.25
+2023,Castilla-La Mancha,Hombres,mediana,22602.77
+2023,Castilla-La Mancha,Mujeres,cuartil_25,14029.13
+2023,Castilla-La Mancha,Mujeres,cuartil_75,27777.8
+2023,Castilla-La Mancha,Mujeres,media,22608.19
+2023,Castilla-La Mancha,Mujeres,mediana,18752.8
+2023,Cataluña,Hombres,cuartil_25,20127.63
+2023,Cataluña,Hombres,cuartil_75,40565.61
+2023,Cataluña,Hombres,media,32721.58
+2023,Cataluña,Hombres,mediana,27970.36
+2023,Cataluña,Mujeres,cuartil_25,15761.14
+2023,Cataluña,Mujeres,cuartil_75,34243.08
+2023,Cataluña,Mujeres,media,27240.93
+2023,Cataluña,Mujeres,mediana,23407.44
+2023,Comunidad de Madrid,Hombres,cuartil_25,19910.77
+2023,Comunidad de Madrid,Hombres,cuartil_75,44502.09
+2023,Comunidad de Madrid,Hombres,media,35052.21
+2023,Comunidad de Madrid,Hombres,mediana,28368.52
+2023,Comunidad de Madrid,Mujeres,cuartil_25,16096.04
+2023,Comunidad de Madrid,Mujeres,cuartil_75,37308.1
+2023,Comunidad de Madrid,Mujeres,media,29250.2
+2023,Comunidad de Madrid,Mujeres,mediana,24037.76
+2023,Comunitat Valenciana,Hombres,cuartil_25,18106.98
+2023,Comunitat Valenciana,Hombres,cuartil_75,33363.98
+2023,Comunitat Valenciana,Hombres,media,27933.36
+2023,Comunitat Valenciana,Hombres,mediana,23340.07
+2023,Comunitat Valenciana,Mujeres,cuartil_25,13952.17
+2023,Comunitat Valenciana,Mujeres,cuartil_75,29926.28
+2023,Comunitat Valenciana,Mujeres,media,23205.68
+2023,Comunitat Valenciana,Mujeres,mediana,19193.64
+2023,Extremadura,Hombres,cuartil_25,16905.44
+2023,Extremadura,Hombres,cuartil_75,29857.76
+2023,Extremadura,Hombres,media,25179.79
+2023,Extremadura,Hombres,mediana,20800.08
+2023,Extremadura,Mujeres,cuartil_25,11791.9
+2023,Extremadura,Mujeres,cuartil_75,28915.62
+2023,Extremadura,Mujeres,media,22181.88
+2023,Extremadura,Mujeres,mediana,18223.48
+2023,Galicia,Hombres,cuartil_25,18689.93
+2023,Galicia,Hombres,cuartil_75,31381.87
+2023,Galicia,Hombres,media,27479.85
+2023,Galicia,Hombres,mediana,23578.22
+2023,Galicia,Mujeres,cuartil_25,14425.08
+2023,Galicia,Mujeres,cuartil_75,28795.66
+2023,Galicia,Mujeres,media,23153.78
+2023,Galicia,Mujeres,mediana,19147.64
+2023,Illes Balears,Hombres,cuartil_25,19555.74
+2023,Illes Balears,Hombres,cuartil_75,33094.48
+2023,Illes Balears,Hombres,media,28754.2
+2023,Illes Balears,Hombres,mediana,24094.98
+2023,Illes Balears,Mujeres,cuartil_25,17217.18
+2023,Illes Balears,Mujeres,cuartil_75,30975.59
+2023,Illes Balears,Mujeres,media,26260.9
+2023,Illes Balears,Mujeres,mediana,22920.89
+2023,La Rioja,Hombres,cuartil_25,20016.5
+2023,La Rioja,Hombres,cuartil_75,34324.04
+2023,La Rioja,Hombres,media,28482.01
+2023,La Rioja,Hombres,mediana,25361.31
+2023,La Rioja,Mujeres,cuartil_25,15114.78
+2023,La Rioja,Mujeres,cuartil_75,30760.91
+2023,La Rioja,Mujeres,media,24307.34
+2023,La Rioja,Mujeres,mediana,20782.94
+2023,Navarra,Hombres,cuartil_25,23851.27
+2023,Navarra,Hombres,cuartil_75,42099.11
+2023,Navarra,Hombres,media,34623.18
+2023,Navarra,Hombres,mediana,30792.32
+2023,Navarra,Mujeres,cuartil_25,17040.21
+2023,Navarra,Mujeres,cuartil_75,34934.44
+2023,Navarra,Mujeres,media,27461.86
+2023,Navarra,Mujeres,mediana,24734.46
+2023,País Vasco,Hombres,cuartil_25,22945.0
+2023,País Vasco,Hombres,cuartil_75,44991.0
+2023,País Vasco,Hombres,media,35600.45
+2023,País Vasco,Hombres,mediana,32083.4
+2023,País Vasco,Mujeres,cuartil_25,17345.0
+2023,País Vasco,Mujeres,cuartil_75,41835.0
+2023,País Vasco,Mujeres,media,31038.84
+2023,País Vasco,Mujeres,mediana,26872.55
+2023,Región de Murcia,Hombres,cuartil_25,18150.97
+2023,Región de Murcia,Hombres,cuartil_75,32492.16
+2023,Región de Murcia,Hombres,media,27799.19
+2023,Región de Murcia,Hombres,mediana,22618.98
+2023,Región de Murcia,Mujeres,cuartil_25,13052.52
+2023,Región de Murcia,Mujeres,cuartil_75,28657.78
+2023,Región de Murcia,Mujeres,media,22474.77
+2023,Región de Murcia,Mujeres,mediana,17641.25
